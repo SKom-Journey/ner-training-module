@@ -1,0 +1,146 @@
+[
+    [
+        "I like a food",
+        {
+            "entities": [
+                [
+                    7,
+                    8,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm craving something a",
+        {
+            "entities": [
+                [
+                    22,
+                    23,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I prefer dishes that are a",
+        {
+            "entities": [
+                [
+                    25,
+                    26,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want something a",
+        {
+            "entities": [
+                [
+                    17,
+                    18,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for a a option",
+        {
+            "entities": [
+                [
+                    16,
+                    17,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want to eat something a",
+        {
+            "entities": [
+                [
+                    24,
+                    25,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm following a a diet",
+        {
+            "entities": [
+                [
+                    14,
+                    15,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I like my food to be a",
+        {
+            "entities": [
+                [
+                    21,
+                    22,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a dish that's a?",
+        {
+            "entities": [
+                [
+                    18,
+                    19,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I feel like eating a",
+        {
+            "entities": [
+                [
+                    19,
+                    20,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I usually enjoy a food",
+        {
+            "entities": [
+                [
+                    16,
+                    17,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for something a",
+        {
+            "entities": [
+                [
+                    26,
+                    27,
+                    "l"
+                ]
+            ]
+        }
+    ]
+]

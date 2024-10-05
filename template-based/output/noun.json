@@ -1,0 +1,26 @@
+[
+    [
+        "I need a quick a",
+        {
+            "entities": [
+                [
+                    7,
+                    8,
+                    "l"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm trying to eat healthier a",
+        {
+            "entities": [
+                [
+                    28,
+                    29,
+                    "l"
+                ]
+            ]
+        }
+    ]
+]
