@@ -7,7 +7,7 @@ from datasets import datasets
 labels_with_keywords = [
     {
         "label": "ITEM_CATEGORY",
-        "keywords": ["dish", "food", "foods", "eat", "drink", "drinks", "meal", "meals"] 
+        "keywords": ["dishes", "dish", "food", "foods", "eat", "drink", "drinks", "meal", "meals", "thirsty", "thirst", "hungry", "hunger"] 
     },
     {
         "label": "FLAVOR_TYPE",
@@ -19,11 +19,15 @@ labels_with_keywords = [
     },
     {
         "label": "MEAL_TYPE",
-        "keywords": ["lunch", "snack", "breakfast", "dinner", "treat"]
+        "keywords": ["lunch", "lunches", "snack", "snacks", "breakfast", "breakfasts", "dinner", "treat", "dinners",]
     },
     {
         "label": "TEMPERATURE",
         "keywords": ["cold", "warm", "hot"]
+    },
+    {
+        "label": "ALLERGY_TYPE",
+        "keywords": ["gluten", "dairy", "seafood", "egg"]
     }
 ]
 

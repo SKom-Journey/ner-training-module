@@ -1,5 +1,167 @@
 [
     [
+        "I'm looking for cold drinks that's save for gluten allergy",
+        {
+            "entities": [
+                [
+                    21,
+                    27,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    16,
+                    20,
+                    "TEMPERATURE"
+                ],
+                [
+                    44,
+                    50,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Find me something for egg allergy",
+        {
+            "entities": [
+                [
+                    22,
+                    25,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have a gluten allergy",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have egg allergy",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have gluten allergy, can recommend me something without it?",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can find me something save for seafood allergy?",
+        {
+            "entities": [
+                [
+                    31,
+                    38,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Have any drinks that's save for someone have dairy allergy?",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    45,
+                    50,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How about drinks for people that have dairy allergy?",
+        {
+            "entities": [
+                [
+                    10,
+                    16,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    38,
+                    43,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I like sweet snacks",
+        {
+            "entities": [
+                [
+                    7,
+                    12,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    13,
+                    19,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Find me hot drinks",
+        {
+            "entities": [
+                [
+                    12,
+                    18,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    8,
+                    11,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Im thirsty",
+        {
+            "entities": [
+                [
+                    3,
+                    10,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
         "I like spicy food",
         {
             "entities": [
@@ -33,6 +195,11 @@
         {
             "entities": [
                 [
+                    9,
+                    15,
+                    "ITEM_CATEGORY"
+                ],
+                [
                     25,
                     30,
                     "FLAVOR_TYPE"
@@ -48,6 +215,47 @@
                     17,
                     23,
                     "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for a dinner option",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for vegan menus",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want to drink something for lunch",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    30,
+                    35,
+                    "MEAL_TYPE"
                 ]
             ]
         }
@@ -135,6 +343,23 @@
         }
     ],
     [
+        "I will got with warm drinks please",
+        {
+            "entities": [
+                [
+                    21,
+                    27,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    16,
+                    20,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
         "I'm looking for something savory",
         {
             "entities": [
@@ -167,6 +392,11 @@
         "The best dishes are always spicy.",
         {
             "entities": [
+                [
+                    9,
+                    15,
+                    "ITEM_CATEGORY"
+                ],
                 [
                     27,
                     32,
@@ -362,6 +592,18 @@
         }
     ],
     [
+        "I want something for lunch",
+        {
+            "entities": [
+                [
+                    21,
+                    26,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
         "I prefer drinks that are hot.",
         {
             "entities": [
@@ -374,6 +616,71 @@
                     25,
                     28,
                     "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Any drinks you would recommend?",
+        {
+            "entities": [
+                [
+                    4,
+                    10,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Give me something to eat",
+        {
+            "entities": [
+                [
+                    21,
+                    24,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Give me cold drinks",
+        {
+            "entities": [
+                [
+                    13,
+                    19,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    8,
+                    12,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Any recommended breakfast?",
+        {
+            "entities": [
+                [
+                    16,
+                    25,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's good for dinner?",
+        {
+            "entities": [
+                [
+                    16,
+                    22,
+                    "MEAL_TYPE"
                 ]
             ]
         }
