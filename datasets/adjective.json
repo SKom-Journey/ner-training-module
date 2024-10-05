@@ -1,144 +1,132 @@
 [
     [
-        "I like a food",
+        "I like spicy food",
         {
             "entities": [
                 [
                     7,
-                    8,
-                    "l"
+                    12,
+                    "FLAVOR_PROFILE"
                 ]
             ]
         }
     ],
     [
-        "I'm craving something a",
+        "I'm craving something spicy",
         {
             "entities": [
                 [
                     22,
-                    23,
-                    "l"
+                    27,
+                    "FLAVOR_PROFILE"
                 ]
             ]
         }
     ],
     [
-        "I prefer dishes that are a",
+        "I prefer dishes that are spicy",
         {
             "entities": [
                 [
                     25,
-                    26,
-                    "l"
+                    30,
+                    "FLAVOR_PROFILE"
                 ]
             ]
         }
     ],
     [
-        "I want something a",
+        "I want something spicy",
         {
             "entities": [
                 [
                     17,
+                    22,
+                    "FLAVOR_PROFILE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for a spicy option",
+        {
+            "entities": [
+                [
                     18,
-                    "l"
+                    23,
+                    "FLAVOR_PROFILE"
                 ]
             ]
         }
     ],
     [
-        "I'm looking for a a option",
-        {
-            "entities": [
-                [
-                    16,
-                    17,
-                    "l"
-                ]
-            ]
-        }
-    ],
-    [
-        "I want to eat something a",
+        "I want to eat something spicy",
         {
             "entities": [
                 [
                     24,
-                    25,
-                    "l"
+                    29,
+                    "FLAVOR_PROFILE"
                 ]
             ]
         }
     ],
     [
-        "I'm following a a diet",
-        {
-            "entities": [
-                [
-                    14,
-                    15,
-                    "l"
-                ]
-            ]
-        }
-    ],
-    [
-        "I like my food to be a",
-        {
-            "entities": [
-                [
-                    21,
-                    22,
-                    "l"
-                ]
-            ]
-        }
-    ],
-    [
-        "Can you recommend a dish that's a?",
-        {
-            "entities": [
-                [
-                    18,
-                    19,
-                    "l"
-                ]
-            ]
-        }
-    ],
-    [
-        "I feel like eating a",
-        {
-            "entities": [
-                [
-                    19,
-                    20,
-                    "l"
-                ]
-            ]
-        }
-    ],
-    [
-        "I usually enjoy a food",
+        "I'm following a spicy diet",
         {
             "entities": [
                 [
                     16,
-                    17,
-                    "l"
+                    21,
+                    "FLAVOR_PROFILE"
                 ]
             ]
         }
     ],
     [
-        "I'm looking for something a",
+        "I like my food to be spicy",
+        {
+            "entities": [
+                [
+                    21,
+                    26,
+                    "FLAVOR_PROFILE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I feel like eating spicy",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "FLAVOR_PROFILE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I usually enjoy spicy food",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "FLAVOR_PROFILE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for something spicy",
         {
             "entities": [
                 [
                     26,
-                    27,
-                    "l"
+                    31,
+                    "FLAVOR_PROFILE"
                 ]
             ]
         }

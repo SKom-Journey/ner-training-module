@@ -1,0 +1,400 @@
+[
+    [
+        "I like spicy food",
+        {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    7,
+                    12,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm craving something spicy",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I prefer dishes that are sweet",
+        {
+            "entities": [
+                [
+                    25,
+                    30,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want something savory",
+        {
+            "entities": [
+                [
+                    17,
+                    23,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want to eat something cold",
+        {
+            "entities": [
+                [
+                    24,
+                    28,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm following a vegan diet",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I like my food to be spicy",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    21,
+                    26,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend something sweet?",
+        {
+            "entities": [
+                [
+                    28,
+                    33,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I feel like eating spicy",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I usually enjoy mild food",
+        {
+            "entities": [
+                [
+                    21,
+                    25,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for something savory",
+        {
+            "entities": [
+                [
+                    26,
+                    32,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I love when my drink is cold.",
+        {
+            "entities": [
+                [
+                    15,
+                    20,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    24,
+                    28,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The best dishes are always spicy.",
+        {
+            "entities": [
+                [
+                    27,
+                    32,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "My favorite foods are usually spicy.",
+        {
+            "entities": [
+                [
+                    12,
+                    17,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    30,
+                    35,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I prefer my drinks to be sweet.",
+        {
+            "entities": [
+                [
+                    12,
+                    18,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    25,
+                    30,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm in the mood for something sweet for my drink.",
+        {
+            "entities": [
+                [
+                    43,
+                    48,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    30,
+                    35,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you find me something vegetarian?",
+        {
+            "entities": [
+                [
+                    26,
+                    36,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "What vegan dish would you recommend?",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    5,
+                    10,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I usually go for vegetarian meals.",
+        {
+            "entities": [
+                [
+                    28,
+                    33,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    17,
+                    27,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm interested in trying something vegan.",
+        {
+            "entities": [
+                [
+                    35,
+                    40,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "What vegan option do you have for me?",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want to try a vegetarian dish today.",
+        {
+            "entities": [
+                [
+                    27,
+                    31,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    16,
+                    26,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have anything sweet on the menu?",
+        {
+            "entities": [
+                [
+                    21,
+                    26,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm in the mood for a treat.",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I feel like having a snack.",
+        {
+            "entities": [
+                [
+                    21,
+                    26,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's a good meal to try?",
+        {
+            "entities": [
+                [
+                    14,
+                    18,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "I prefer drinks that are hot.",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    25,
+                    28,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you suggest something warm for me?",
+        {
+            "entities": [
+                [
+                    26,
+                    30,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have any lunch recommendations?",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ]
+]

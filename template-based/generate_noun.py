@@ -25,7 +25,7 @@ for template in noun_templates:
         training_data.append((sentence, {"entities": [(start_idx, end_idx, label)]}))
 
 # Write the result to a JSON file
-output_file = "./output/noun.json"
+output_file = "../datasets/noun.json"
 with open(output_file, "w") as f:
     json.dump(training_data, f, indent=4)
 
