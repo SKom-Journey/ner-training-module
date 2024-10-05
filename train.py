@@ -16,7 +16,7 @@ else:
     ner = nlp.get_pipe("ner")
 
 # Load the training data from the JSON file
-with open("datasets/adjective.json", "r") as f:
+with open("training.json", "r") as f:
     training_data = json.load(f)
 
 # Add labels to the NER pipeline

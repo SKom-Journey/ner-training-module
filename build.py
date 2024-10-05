@@ -1,6 +1,7 @@
 import re
 import json
 from spacy.training.example import Example
+from datasets import datasets
 
 # Input data: Labels and keywords
 labels_with_keywords = [
@@ -26,40 +27,6 @@ labels_with_keywords = [
     }
 ]
 
-# Text data to be processed
-text_data = [
-    "I like spicy food",
-    "I'm craving something spicy",
-    "I prefer dishes that are sweet",
-    "I want something savory",
-    "I'm looking for a bitter option",
-    "I want to drink something cold",
-    "I'm following a vegan diet",
-    "I like my food to be spicy",
-    "Can you recommend something sweet?",
-    "I feel like eating spicy",
-    "I usually enjoy mild food",
-    "I'm looking for something savory",
-    "I love when my drink is cold.",
-    "The best dishes are always spicy.",
-    "My favorite foods are usually spicy.",
-    "I prefer my drinks to be sweet.",
-    "I'm in the mood for something sweet for my drink.",
-    "Can you find me something vegetarian?",
-    "What vegan dish would you recommend?",
-    "I usually go for vegetarian meals.",
-    "I'm interested in trying something vegan.",
-    "What vegan option do you have for me?",
-    "I want to try a vegetarian dish today.",
-    "Do you have anything sweet on the menu?",
-    "I'm in the mood for a treat.",
-    "I feel like having a snack.",
-    "What's a good meal to try?",
-    "I prefer drinks that are hot.",
-    "Can you suggest something warm for me?",
-    "Do you have any lunch recommendations?"
-]
-
 # Function to find keywords in a sentence and label them
 def annotate_sentence(sentence, labels_with_keywords):
     entities = []
@@ -83,13 +50,13 @@ def annotate_sentence(sentence, labels_with_keywords):
 # Create training data in spaCy NER format
 training_data = []
 
-for sentence in text_data:
+for sentence in datasets:
     annotations = annotate_sentence(sentence, labels_with_keywords)
     if annotations["entities"]:
         training_data.append((sentence, annotations))
 
 # Write the result to a JSON file
-output_file = "./datasets/training.json"
+output_file = "./training.json"
 with open(output_file, "w") as f:
     json.dump(training_data, f, indent=4)
 

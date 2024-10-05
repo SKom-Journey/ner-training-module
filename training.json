@@ -53,12 +53,17 @@
         }
     ],
     [
-        "I want to eat something cold",
+        "I want to drink something cold",
         {
             "entities": [
                 [
-                    24,
-                    28,
+                    10,
+                    15,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    26,
+                    30,
                     "TEMPERATURE"
                 ]
             ]
