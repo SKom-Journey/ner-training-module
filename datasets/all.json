@@ -4,11 +4,6 @@
         {
             "entities": [
                 [
-                    21,
-                    27,
-                    "ITEM_CATEGORY"
-                ],
-                [
                     16,
                     20,
                     "TEMPERATURE"
@@ -86,11 +81,6 @@
         {
             "entities": [
                 [
-                    9,
-                    15,
-                    "ITEM_CATEGORY"
-                ],
-                [
                     45,
                     50,
                     "ALLERGY_TYPE"
@@ -102,11 +92,6 @@
         "How about drinks for people that have dairy allergy?",
         {
             "entities": [
-                [
-                    10,
-                    16,
-                    "ITEM_CATEGORY"
-                ],
                 [
                     38,
                     43,
@@ -123,11 +108,6 @@
                     7,
                     12,
                     "FLAVOR_TYPE"
-                ],
-                [
-                    13,
-                    19,
-                    "MEAL_TYPE"
                 ]
             ]
         }
@@ -137,26 +117,9 @@
         {
             "entities": [
                 [
-                    12,
-                    18,
-                    "ITEM_CATEGORY"
-                ],
-                [
                     8,
                     11,
                     "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Im thirsty",
-        {
-            "entities": [
-                [
-                    3,
-                    10,
-                    "ITEM_CATEGORY"
                 ]
             ]
         }
@@ -194,11 +157,6 @@
         "I prefer dishes that are sweet",
         {
             "entities": [
-                [
-                    9,
-                    15,
-                    "ITEM_CATEGORY"
-                ],
                 [
                     25,
                     30,
@@ -347,11 +305,6 @@
         {
             "entities": [
                 [
-                    21,
-                    27,
-                    "ITEM_CATEGORY"
-                ],
-                [
                     16,
                     20,
                     "TEMPERATURE"
@@ -393,11 +346,6 @@
         {
             "entities": [
                 [
-                    9,
-                    15,
-                    "ITEM_CATEGORY"
-                ],
-                [
                     27,
                     32,
                     "FLAVOR_TYPE"
@@ -410,11 +358,6 @@
         {
             "entities": [
                 [
-                    12,
-                    17,
-                    "ITEM_CATEGORY"
-                ],
-                [
                     30,
                     35,
                     "FLAVOR_TYPE"
@@ -426,11 +369,6 @@
         "I prefer my drinks to be sweet.",
         {
             "entities": [
-                [
-                    12,
-                    18,
-                    "ITEM_CATEGORY"
-                ],
                 [
                     25,
                     30,
@@ -489,11 +427,6 @@
         "I usually go for vegetarian meals.",
         {
             "entities": [
-                [
-                    28,
-                    33,
-                    "ITEM_CATEGORY"
-                ],
                 [
                     17,
                     27,
@@ -608,11 +541,6 @@
         {
             "entities": [
                 [
-                    9,
-                    15,
-                    "ITEM_CATEGORY"
-                ],
-                [
                     25,
                     28,
                     "TEMPERATURE"
@@ -621,38 +549,9 @@
         }
     ],
     [
-        "Any drinks you would recommend?",
-        {
-            "entities": [
-                [
-                    4,
-                    10,
-                    "ITEM_CATEGORY"
-                ]
-            ]
-        }
-    ],
-    [
-        "Give me something to eat",
-        {
-            "entities": [
-                [
-                    21,
-                    24,
-                    "ITEM_CATEGORY"
-                ]
-            ]
-        }
-    ],
-    [
         "Give me cold drinks",
         {
             "entities": [
-                [
-                    13,
-                    19,
-                    "ITEM_CATEGORY"
-                ],
                 [
                     8,
                     12,
