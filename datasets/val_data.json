@@ -1,1 +1,1412 @@
-[["Can find me something save for seafood allergy?", {"entities": [[31, 38, "ALLERGY_TYPE"]]}], ["Can you suggest something warm for me?", {"entities": [[26, 30, "TEMPERATURE"]]}], ["I'm interested in trying something vegan.", {"entities": [[35, 40, "DIET_TYPE"]]}], ["I'm following a vegan diet", {"entities": [[16, 21, "DIET_TYPE"]]}], ["I prefer my drinks to be sweet.", {"entities": [[25, 30, "FLAVOR_TYPE"]]}], ["I will got with warm drinks please", {"entities": [[16, 20, "TEMPERATURE"]]}], ["I want to drink something cold", {"entities": [[10, 15, "ITEM_CATEGORY"], [26, 30, "TEMPERATURE"]]}], ["I'm in the mood for a treat.", {"entities": [[22, 27, "MEAL_TYPE"]]}], ["I want to try a vegetarian dish today.", {"entities": [[27, 31, "ITEM_CATEGORY"], [16, 26, "DIET_TYPE"]]}], ["Can you find me something vegetarian?", {"entities": [[26, 36, "DIET_TYPE"]]}]]
+[
+    [
+        "Do you have a hot coffee available?",
+        {
+            "entities": [
+                [
+                    14,
+                    17,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want a cold drink, please.",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    9,
+                    13,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Is there a sour drink available?",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    11,
+                    15,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have a savory breakfast?",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    21,
+                    30,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a cold, vegetarian dish?",
+        {
+            "entities": [
+                [
+                    37,
+                    41,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    26,
+                    36,
+                    "DIET_TYPE"
+                ],
+                [
+                    20,
+                    24,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a healthy breakfast?",
+        {
+            "entities": [
+                [
+                    28,
+                    37,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Could you suggest a cold drink?",
+        {
+            "entities": [
+                [
+                    25,
+                    30,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    20,
+                    24,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "What's a hot vegan meal for dinner?",
+        {
+            "entities": [
+                [
+                    19,
+                    23,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    13,
+                    18,
+                    "DIET_TYPE"
+                ],
+                [
+                    28,
+                    34,
+                    "MEAL_TYPE"
+                ],
+                [
+                    9,
+                    12,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can I have a warm drink, please?",
+        {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    13,
+                    17,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have any nut allergy-friendly options?",
+        {
+            "entities": [
+                [
+                    16,
+                    19,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Could you make that dish without any soy, please?",
+        {
+            "entities": [
+                [
+                    20,
+                    24,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    37,
+                    40,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Looking for a gluten-free treat.",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "MEAL_TYPE"
+                ],
+                [
+                    14,
+                    20,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm in the mood for a treat.",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm craving a savory, hot dish for lunch.",
+        {
+            "entities": [
+                [
+                    26,
+                    30,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    14,
+                    20,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    35,
+                    40,
+                    "MEAL_TYPE"
+                ],
+                [
+                    22,
+                    25,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Is there a cold meal that's gluten-free?",
+        {
+            "entities": [
+                [
+                    16,
+                    20,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    11,
+                    15,
+                    "TEMPERATURE"
+                ],
+                [
+                    28,
+                    34,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please recommend a nut-free dessert.",
+        {
+            "entities": [
+                [
+                    19,
+                    22,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Looking for a vegetarian snack for the afternoon.",
+        {
+            "entities": [
+                [
+                    14,
+                    24,
+                    "DIET_TYPE"
+                ],
+                [
+                    25,
+                    30,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'd like something hot to go with my breakfast.",
+        {
+            "entities": [
+                [
+                    37,
+                    46,
+                    "MEAL_TYPE"
+                ],
+                [
+                    19,
+                    22,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I need a savory breakfast dish.",
+        {
+            "entities": [
+                [
+                    26,
+                    30,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    9,
+                    15,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    16,
+                    25,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm interested in trying something vegan.",
+        {
+            "entities": [
+                [
+                    35,
+                    40,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have a hot drink option for breakfast?",
+        {
+            "entities": [
+                [
+                    18,
+                    23,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    35,
+                    44,
+                    "MEAL_TYPE"
+                ],
+                [
+                    14,
+                    17,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can find me something save for seafood allergy?",
+        {
+            "entities": [
+                [
+                    31,
+                    38,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The best dishes are always spicy.",
+        {
+            "entities": [
+                [
+                    27,
+                    32,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have any vegetarian, high-protein options?",
+        {
+            "entities": [
+                [
+                    16,
+                    26,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a healthy breakfast?",
+        {
+            "entities": [
+                [
+                    28,
+                    37,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "What can I have that's dairy-free and spicy?",
+        {
+            "entities": [
+                [
+                    38,
+                    43,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    23,
+                    28,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm in the mood for hot food today.",
+        {
+            "entities": [
+                [
+                    24,
+                    28,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    20,
+                    23,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have a normal temperature vegetarian food?",
+        {
+            "entities": [
+                [
+                    44,
+                    48,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    33,
+                    43,
+                    "DIET_TYPE"
+                ],
+                [
+                    14,
+                    20,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Is there a cold vegetarian meal available?",
+        {
+            "entities": [
+                [
+                    27,
+                    31,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    16,
+                    26,
+                    "DIET_TYPE"
+                ],
+                [
+                    11,
+                    15,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have a cold vegan option?",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "DIET_TYPE"
+                ],
+                [
+                    14,
+                    18,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Please bring me a sweet drink.",
+        {
+            "entities": [
+                [
+                    24,
+                    29,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    18,
+                    23,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want a satisfying meal.",
+        {
+            "entities": [
+                [
+                    20,
+                    24,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a warm vegan treat?",
+        {
+            "entities": [
+                [
+                    25,
+                    30,
+                    "DIET_TYPE"
+                ],
+                [
+                    31,
+                    36,
+                    "MEAL_TYPE"
+                ],
+                [
+                    20,
+                    24,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you suggest a savory snack?",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    25,
+                    30,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for a filling breakfast.",
+        {
+            "entities": [
+                [
+                    26,
+                    35,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm in the mood for a normal temperature lunch.",
+        {
+            "entities": [
+                [
+                    41,
+                    46,
+                    "MEAL_TYPE"
+                ],
+                [
+                    22,
+                    28,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a snack for me?",
+        {
+            "entities": [
+                [
+                    20,
+                    25,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm craving something sweet and savory.",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    32,
+                    38,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a drink to help me boost my energy?",
+        {
+            "entities": [
+                [
+                    20,
+                    25,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for a spicy vegetarian dish.",
+        {
+            "entities": [
+                [
+                    35,
+                    39,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    18,
+                    23,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    24,
+                    34,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I prefer drinks that are hot.",
+        {
+            "entities": [
+                [
+                    25,
+                    28,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have a spicy drink that's egg-free?",
+        {
+            "entities": [
+                [
+                    20,
+                    25,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    14,
+                    19,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    33,
+                    36,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm in the mood for a hot treat.",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "MEAL_TYPE"
+                ],
+                [
+                    22,
+                    25,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm craving a savory meal, maybe something for dinner?",
+        {
+            "entities": [
+                [
+                    21,
+                    25,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    14,
+                    20,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    47,
+                    53,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'd like a vegetarian dish for my meal.",
+        {
+            "entities": [
+                [
+                    22,
+                    26,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    34,
+                    38,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    11,
+                    21,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How about a hot snack for the evening?",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "MEAL_TYPE"
+                ],
+                [
+                    12,
+                    15,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'd like a savory item for my lunch.",
+        {
+            "entities": [
+                [
+                    11,
+                    17,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    30,
+                    35,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you find me something vegetarian?",
+        {
+            "entities": [
+                [
+                    26,
+                    36,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you find me something hot and vegan?",
+        {
+            "entities": [
+                [
+                    34,
+                    39,
+                    "DIET_TYPE"
+                ],
+                [
+                    26,
+                    29,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I need a pick-me-up drink.",
+        {
+            "entities": [
+                [
+                    20,
+                    25,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Looking for something cold for the summer.",
+        {
+            "entities": [
+                [
+                    22,
+                    26,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Could you get me something hot to eat?",
+        {
+            "entities": [
+                [
+                    27,
+                    30,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want a snack that's both light and satisfying.",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want a snack that's both sweet and salty.",
+        {
+            "entities": [
+                [
+                    27,
+                    32,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    9,
+                    14,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Got something for breakfast?",
+        {
+            "entities": [
+                [
+                    18,
+                    27,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "What\u2019s a good dinner option that\u2019s dairy-free?",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "MEAL_TYPE"
+                ],
+                [
+                    35,
+                    40,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I\u2019m craving something hot and sweet.",
+        {
+            "entities": [
+                [
+                    30,
+                    35,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    22,
+                    25,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have any lunch recommendations?",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want a snack that's both sweet and indulgent.",
+        {
+            "entities": [
+                [
+                    27,
+                    32,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    9,
+                    14,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Could I get a hot food item today?",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    14,
+                    17,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm in the mood for hot food today.",
+        {
+            "entities": [
+                [
+                    24,
+                    28,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    20,
+                    23,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you suggest a dish that\u2019s both sweet and spicy?",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    45,
+                    50,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    35,
+                    40,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How about drinks for people that have dairy allergy?",
+        {
+            "entities": [
+                [
+                    38,
+                    43,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have any egg-free meals?",
+        {
+            "entities": [
+                [
+                    16,
+                    19,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for a light, summery meal.",
+        {
+            "entities": [
+                [
+                    33,
+                    37,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have any hot beverages?",
+        {
+            "entities": [
+                [
+                    16,
+                    19,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm looking for a light lunch.",
+        {
+            "entities": [
+                [
+                    24,
+                    29,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I want something spicy for my afternoon snack.",
+        {
+            "entities": [
+                [
+                    17,
+                    22,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    40,
+                    45,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'd like a dairy-free dessert, if available.",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a vegan meal for dinner?",
+        {
+            "entities": [
+                [
+                    26,
+                    30,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    20,
+                    25,
+                    "DIET_TYPE"
+                ],
+                [
+                    35,
+                    41,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm in the mood for a hot vegetarian meal.",
+        {
+            "entities": [
+                [
+                    37,
+                    41,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    26,
+                    36,
+                    "DIET_TYPE"
+                ],
+                [
+                    22,
+                    25,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'd like a hot drink.",
+        {
+            "entities": [
+                [
+                    15,
+                    20,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    11,
+                    14,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a spicy meal?",
+        {
+            "entities": [
+                [
+                    26,
+                    30,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    20,
+                    25,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a warm dish that\u2019s gluten-free?",
+        {
+            "entities": [
+                [
+                    25,
+                    29,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    20,
+                    24,
+                    "TEMPERATURE"
+                ],
+                [
+                    37,
+                    43,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have any gluten-free options available?",
+        {
+            "entities": [
+                [
+                    16,
+                    22,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm in the mood for a hot food item.",
+        {
+            "entities": [
+                [
+                    26,
+                    30,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    22,
+                    25,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Looking for a hot dish that\u2019s also spicy.",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    35,
+                    40,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    14,
+                    17,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'd like a soy-free drink, if possible.",
+        {
+            "entities": [
+                [
+                    20,
+                    25,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    11,
+                    14,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Is there a hot drink option available?",
+        {
+            "entities": [
+                [
+                    15,
+                    20,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    11,
+                    14,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm in the mood for a cold vegan snack.",
+        {
+            "entities": [
+                [
+                    27,
+                    32,
+                    "DIET_TYPE"
+                ],
+                [
+                    33,
+                    38,
+                    "MEAL_TYPE"
+                ],
+                [
+                    22,
+                    26,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Is there a sour drink available?",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    11,
+                    15,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you have a savory lunch without dairy?",
+        {
+            "entities": [
+                [
+                    14,
+                    20,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    21,
+                    26,
+                    "MEAL_TYPE"
+                ],
+                [
+                    35,
+                    40,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you recommend a warm vegan dinner?",
+        {
+            "entities": [
+                [
+                    25,
+                    30,
+                    "DIET_TYPE"
+                ],
+                [
+                    31,
+                    37,
+                    "MEAL_TYPE"
+                ],
+                [
+                    20,
+                    24,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Is there anything cold on the menu for dessert?",
+        {
+            "entities": [
+                [
+                    18,
+                    22,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I'm craving a cold treat.",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "MEAL_TYPE"
+                ],
+                [
+                    14,
+                    18,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ]
+]
