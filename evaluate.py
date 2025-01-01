@@ -34,9 +34,10 @@ x = range(len(entity_types))  # X-axis labels based on entity types
 plt.figure(figsize=(10, 6))
 
 # Plot precision, recall, and F1 score
-plt.plot(x, precision, label="Precision", marker="o")
-plt.plot(x, recall, label="Recall", marker="o")
-plt.plot(x, f1_score, label="F1 Score", marker="o")
+plt.plot(x, precision, label=f"Precision (Avg: {sum(precision)/len(precision):.2f})", marker="o")
+plt.plot(x, recall, label=f"Recall (Avg: {sum(recall)/len(recall):.2f})", marker="o")
+plt.plot(x, f1_score, label=f"F1 Score (Avg: {sum(f1_score)/len(f1_score):.2f})", marker="o")
+
 
 # Set x-axis labels and title
 plt.xticks(x, entity_types, rotation=45)
