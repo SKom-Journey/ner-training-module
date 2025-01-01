@@ -12,6 +12,10 @@
 # Testing
 - `python test.py` (input your own text to see how the model behave)
 
+# Scraping
+- `python scrap.py`
+- Result will generated to `out/scrap.json`
+
 # Entity Table
 
 | **Entity**          | **Description**                                | **Keywords**                                                                   |
