@@ -26,3 +26,13 @@ class MenuData:
         }
 
         return data
+    
+    def to_dataset(self) -> List[str]:
+        data = [
+            self.title,
+            self.description,
+           *self.ingredients,
+           *self.tags
+        ]
+
+        return data

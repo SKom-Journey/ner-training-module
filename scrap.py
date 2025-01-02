@@ -4,8 +4,8 @@ from utils.get_menu_data import get_menu_data
 from utils.write_scrap_data_to_json import write_scrap_data_to_json
 import os
 
-NUMBER_OF_MENUS_TO_SCRAPE = 1
-STARTING_URL = "https://www.bbcgoodfood.com/recipes/roast-potato-turkey-sausage-stuffing-pie"
+NUMBER_OF_MENUS_TO_SCRAPE = 10
+STARTING_URL = "https://www.bbcgoodfood.com/recipes"
 scrapped_menus = []  # List to store scrapped menu data
 scrapped_menu_urls = []  # List to track already scrapped URLs
 other_menu_urls = []  # List to track discovered related links
@@ -37,6 +37,6 @@ with sync_playwright() as p:
             else:
                 print("No more related links left, closing...")
                 break
-
+            
     write_scrap_data_to_json(scrapped_menus)
     browser.close()
