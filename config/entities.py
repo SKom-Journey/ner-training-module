@@ -25,6 +25,6 @@ entities = [
     },
     {
         "label": "ALLERGY_SYMPTOM",
-        "keywords": ["itch", "rash", "nausea", "vomit", "diarrhea", "sneeze", "stomachache", "cough", "swallowing", "abdominal"]
+        "keywords": ["itch", "rash", "nausea", "vomit", "diarrhoea", "sneeze", "stomach", "cough", "swallow", "abdominal"]
     }
 ]

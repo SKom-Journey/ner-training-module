@@ -22,7 +22,7 @@
 # Testing
 - `python test.py` (input your own text to see how the model behave)
 
-# Scraping
+# Scraping (BBC Good Food and WebMD)
 - `python scrap.py`
 - Result will generated to `datasets/scrap.json` and dataset to `datasets/datasets.json`
 - Next try generate the model
