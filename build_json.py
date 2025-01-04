@@ -1,6 +1,7 @@
 import re
 import json
 from sklearn.model_selection import train_test_split
+import os
 
 # Input data: Labels and keywords
 labels_with_keywords = [
@@ -70,6 +71,8 @@ with open("./datasets/all.json", "w") as f:
 
 with open("./datasets/all.json", "r") as f:
     data = json.load(f)
+
+os.system('cls')
 
 if len(data) > 0:
     # First split: training + validation vs. test

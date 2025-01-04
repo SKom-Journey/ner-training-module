@@ -1,1076 +1,460 @@
 [
     [
-        "Do you offer any hot, dairy-free drinks?",
+        "I am thinking of using my pumpkin for this recipe.\nIt's heartbreaking to see how they are all being composted and thrown away. Such a waste of food, when people are using food banks regularly in the UK in 2024.\nMy question is, is that a suitable replacement, taste and texture to butternut squash?",
         {
             "entities": [
                 [
-                    17,
-                    20,
+                    143,
+                    147,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat oven to 180C/fan 160C/gas 4. Butter and line a deep, 20cm round cake tin. Beat the sugar and butter together until light and fluffy, then gradually add the egg, beating after each addition. Fold in the almonds, cold mashed potato, lemon zest and baking powder.",
+        {
+            "entities": [
+                [
+                    216,
+                    220,
                     "TEMPERATURE"
                 ],
                 [
-                    22,
-                    27,
+                    161,
+                    164,
                     "ALLERGY_TYPE"
                 ]
             ]
         }
     ],
     [
-        "Can I get a warm meal that's dairy-free?",
+        "Reduce the air-fryer temperature to 170C. Pour the egg mixture into the tin or tins and cook for 8-12 mins until the frittata is golden and completely set.",
         {
             "entities": [
                 [
-                    17,
-                    21,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    12,
-                    16,
-                    "TEMPERATURE"
-                ],
-                [
-                    29,
-                    34,
-                    "ALLERGY_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm looking for a light and refreshing drink.",
-        {
-            "entities": [
-                [
-                    39,
-                    44,
-                    "ITEM_CATEGORY"
-                ]
-            ]
-        }
-    ],
-    [
-        "I need a quick snack.",
-        {
-            "entities": [
-                [
-                    15,
-                    20,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I like sweet snacks",
-        {
-            "entities": [
-                [
-                    7,
-                    12,
-                    "FLAVOR_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm in the mood for a spicy dish for dinner.",
-        {
-            "entities": [
-                [
-                    28,
-                    32,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    22,
-                    27,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    37,
-                    43,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm looking for a dinner option",
-        {
-            "entities": [
-                [
-                    18,
-                    24,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Can you recommend a cold dish that's vegetarian?",
-        {
-            "entities": [
-                [
-                    25,
-                    29,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    37,
-                    47,
-                    "DIET_TYPE"
-                ],
-                [
-                    20,
-                    24,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Is there anything sweet for a treat?",
-        {
-            "entities": [
-                [
-                    18,
-                    23,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    30,
-                    35,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Looking for a warm drink that's also vegan.",
-        {
-            "entities": [
-                [
-                    19,
-                    24,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    37,
-                    42,
-                    "DIET_TYPE"
-                ],
-                [
-                    14,
-                    18,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Can you find me a sweet dish for dinner?",
-        {
-            "entities": [
-                [
-                    24,
-                    28,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    18,
-                    23,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    33,
-                    39,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm craving a savory breakfast.",
-        {
-            "entities": [
-                [
-                    14,
-                    20,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    21,
-                    30,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I have gluten allergy, can recommend me something without it?",
-        {
-            "entities": [
-                [
-                    7,
-                    13,
-                    "ALLERGY_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm looking for a normal temperature snack.",
-        {
-            "entities": [
-                [
-                    37,
-                    42,
-                    "MEAL_TYPE"
-                ],
-                [
-                    18,
-                    24,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Do you have a vegan snack that's warm?",
-        {
-            "entities": [
-                [
-                    14,
-                    19,
-                    "DIET_TYPE"
-                ],
-                [
-                    20,
-                    25,
-                    "MEAL_TYPE"
-                ],
-                [
-                    33,
-                    37,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'd like a sweet treat.",
-        {
-            "entities": [
-                [
-                    11,
-                    16,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    17,
-                    22,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Do you have a savory vegan treat?",
-        {
-            "entities": [
-                [
-                    14,
-                    20,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    21,
-                    26,
-                    "DIET_TYPE"
-                ],
-                [
-                    27,
-                    32,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I want a bitter beverage today.",
-        {
-            "entities": [
-                [
-                    9,
-                    15,
-                    "FLAVOR_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Can I get a hot, sweet drink for breakfast?",
-        {
-            "entities": [
-                [
-                    23,
-                    28,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    17,
-                    22,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    33,
-                    42,
-                    "MEAL_TYPE"
-                ],
-                [
-                    12,
-                    15,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "What's a good spicy meal for lunch?",
-        {
-            "entities": [
-                [
-                    20,
-                    24,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    14,
-                    19,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    29,
-                    34,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Is there a sweet dish for breakfast?",
-        {
-            "entities": [
-                [
-                    17,
-                    21,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    11,
-                    16,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    26,
-                    35,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Can you suggest a breakfast that's hot and vegan?",
-        {
-            "entities": [
-                [
-                    43,
-                    48,
-                    "DIET_TYPE"
-                ],
-                [
-                    18,
-                    27,
-                    "MEAL_TYPE"
-                ],
-                [
-                    35,
-                    38,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm craving a vegan snack.",
-        {
-            "entities": [
-                [
-                    14,
-                    19,
-                    "DIET_TYPE"
-                ],
-                [
-                    20,
-                    25,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Looking for something spicy and gluten-free for lunch.",
-        {
-            "entities": [
-                [
-                    22,
-                    27,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    48,
-                    53,
-                    "MEAL_TYPE"
-                ],
-                [
-                    32,
-                    38,
-                    "ALLERGY_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Can you suggest something warm for me?",
-        {
-            "entities": [
-                [
-                    26,
-                    30,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Do you have any vegan, gluten-free, and nut-free options?",
-        {
-            "entities": [
-                [
-                    16,
-                    21,
-                    "DIET_TYPE"
-                ],
-                [
-                    23,
-                    29,
-                    "ALLERGY_TYPE"
-                ],
-                [
-                    40,
-                    43,
-                    "ALLERGY_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Looking for a sweet treat with no egg.",
-        {
-            "entities": [
-                [
-                    14,
-                    19,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    20,
-                    25,
-                    "MEAL_TYPE"
-                ],
-                [
-                    34,
-                    37,
-                    "ALLERGY_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Can you give me a spicy treat?",
-        {
-            "entities": [
-                [
-                    18,
-                    23,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    24,
-                    29,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Do you have any seafood options available?",
-        {
-            "entities": [
-                [
-                    16,
-                    23,
-                    "ALLERGY_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I need a comforting and warm drink.",
-        {
-            "entities": [
-                [
-                    29,
-                    34,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    24,
-                    28,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm in the mood for a soy-free dish for dinner.",
-        {
-            "entities": [
-                [
-                    31,
-                    35,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    40,
-                    46,
-                    "MEAL_TYPE"
-                ],
-                [
-                    22,
-                    25,
-                    "ALLERGY_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm craving a savory meal, maybe something for dinner?",
-        {
-            "entities": [
-                [
-                    21,
-                    25,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    14,
-                    20,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    47,
-                    53,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Can you suggest something cold for dessert?",
-        {
-            "entities": [
-                [
-                    26,
-                    30,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I want a refreshing drink to cool me down.",
-        {
-            "entities": [
-                [
-                    20,
-                    25,
-                    "ITEM_CATEGORY"
-                ]
-            ]
-        }
-    ],
-    [
-        "Give me something vegan for my snack.",
-        {
-            "entities": [
-                [
-                    18,
-                    23,
-                    "DIET_TYPE"
-                ],
-                [
-                    31,
-                    36,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Do you have a vegan dish?",
-        {
-            "entities": [
-                [
-                    20,
-                    24,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    14,
-                    19,
-                    "DIET_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Any idea for lunch?",
-        {
-            "entities": [
-                [
-                    13,
-                    18,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Is there any hot food on the menu?",
-        {
-            "entities": [
-                [
-                    17,
-                    21,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    13,
-                    16,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "What do you have that is gluten-free?",
-        {
-            "entities": [
-                [
-                    25,
-                    31,
-                    "ALLERGY_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I want something savory",
-        {
-            "entities": [
-                [
-                    17,
-                    23,
-                    "FLAVOR_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "What's a good meal to try?",
-        {
-            "entities": [
-                [
-                    14,
-                    18,
-                    "ITEM_CATEGORY"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm in the mood for hot food today.",
-        {
-            "entities": [
-                [
-                    24,
-                    28,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    20,
-                    23,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "What's a good dinner option that's dairy-free?",
-        {
-            "entities": [
-                [
-                    14,
-                    20,
-                    "MEAL_TYPE"
-                ],
-                [
-                    35,
-                    40,
-                    "ALLERGY_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Looking for a cold drink that's nut-free.",
-        {
-            "entities": [
-                [
-                    19,
-                    24,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    14,
-                    18,
-                    "TEMPERATURE"
-                ],
-                [
-                    32,
-                    35,
-                    "ALLERGY_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "What's a good option for breakfast?",
-        {
-            "entities": [
-                [
-                    25,
-                    34,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Would love a cold snack right now.",
-        {
-            "entities": [
-                [
-                    18,
-                    23,
-                    "MEAL_TYPE"
-                ],
-                [
-                    13,
-                    17,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm following a vegan diet",
-        {
-            "entities": [
-                [
-                    16,
-                    21,
-                    "DIET_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Please give me a spicy snack.",
-        {
-            "entities": [
-                [
-                    17,
-                    22,
-                    "FLAVOR_TYPE"
-                ],
-                [
-                    23,
-                    28,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I feel like eating spicy",
-        {
-            "entities": [
-                [
-                    19,
-                    24,
-                    "FLAVOR_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Anything light for a breakfast snack?",
-        {
-            "entities": [
-                [
-                    31,
-                    36,
-                    "MEAL_TYPE"
-                ],
-                [
-                    21,
-                    30,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I'm looking for a light lunch.",
-        {
-            "entities": [
-                [
-                    24,
-                    29,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I want a cold drink to accompany my meal.",
-        {
-            "entities": [
-                [
-                    14,
-                    19,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    36,
-                    40,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    9,
-                    13,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I want a warm drink for breakfast without any dairy.",
-        {
-            "entities": [
-                [
-                    14,
-                    19,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    24,
-                    33,
-                    "MEAL_TYPE"
-                ],
-                [
-                    9,
-                    13,
-                    "TEMPERATURE"
-                ],
-                [
-                    46,
                     51,
+                    54,
                     "ALLERGY_TYPE"
                 ]
             ]
         }
     ],
     [
-        "Looking for something cold for the summer.",
+        "Heat the air-fryer to 180C. Bake the split bagel for 2-3 mins to toast it lightly. Remove from the air-fryer and make the hole in the top bagel slightly wider by cutting with a sharp knife (this is to make the egg easier to fit \u2013 if the bagel has a wide hole already this may not be necessary). Spread the chilli jam or chutney on the bottom slice, then sprinkle over the cheddar and add a slice of ham. Top with the other half of bagel and cook for 5 mins in the air-fryer to melt the cheese a little.",
         {
             "entities": [
                 [
-                    22,
-                    26,
+                    210,
+                    213,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip the dough back onto your work surface and knead briefly to knock out any air bubbles. If using caraway seeds work these in to the dough. Shape into a smooth oval loaf and pop into your tin. Cover the tin with oiled cling film and leave to rise somewhere warm for a further 1 \u2013 1.5 hr, or until doubled in size.",
+        {
+            "entities": [
+                [
+                    258,
+                    262,
                     "TEMPERATURE"
                 ]
             ]
         }
     ],
     [
-        "I'm looking for a hot dish that's vegan.",
+        "Master roast pork with crispy crackling using our easy recipe. This makes for a special Sunday lunch, served with roast potatoes and veg",
         {
             "entities": [
                 [
-                    22,
-                    26,
+                    95,
+                    100,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try this Asian-inspired salmon supper with a nutty sesame dressing, crisp veg and comforting sweet potato mash. It's healthy, low-calorie and rich in omega-3",
+        {
+            "entities": [
+                [
+                    93,
+                    98,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Combine the mushroom water with 250ml cold water in the pan and bring to the boil. Add back the mushrooms and bean curd and cook on a medium-low heat for 15 mins. Add the oyster sauce, light soy sauce, dark soy sauce, sugar and \u00bd tsp salt, then mix well.",
+        {
+            "entities": [
+                [
+                    38,
+                    42,
+                    "TEMPERATURE"
+                ],
+                [
+                    191,
+                    194,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Use your air fryer to whip up crispy chilli beef for dinner. It takes just 30 minutes to make \u2013 perfect for a crowdpleasing midweek meal",
+        {
+            "entities": [
+                [
+                    132,
+                    136,
                     "ITEM_CATEGORY"
                 ],
                 [
-                    34,
-                    39,
+                    53,
+                    59,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Worked much better with real cheddar cheese rather than vegetarian cheese.",
+        {
+            "entities": [
+                [
+                    56,
+                    66,
                     "DIET_TYPE"
-                ],
-                [
-                    18,
-                    21,
-                    "TEMPERATURE"
                 ]
             ]
         }
     ],
     [
-        "Do you have any dairy-free options?",
+        "This dish is better done the traditional deep fry way . A little soggy",
         {
             "entities": [
                 [
-                    16,
-                    21,
+                    5,
+                    9,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 tsp gluten-free baking powder",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
                     "ALLERGY_TYPE"
                 ]
             ]
         }
     ],
     [
-        "Any recommended breakfast?",
+        "When the pan starts smoking, put a chapati on it. Cook until the underside has brown spots, about 30 seconds, then flip and cook on the other side. Put on a plate and keep warm while you cook the rest of the chapatis.",
         {
             "entities": [
                 [
-                    16,
-                    25,
-                    "MEAL_TYPE"
+                    172,
+                    176,
+                    "TEMPERATURE"
                 ]
             ]
         }
     ],
     [
-        "I'm in the mood for dinner, anything you suggest?",
+        "Great curry. I cook those lentils and sweet potatoes and it's so relaxing.",
         {
             "entities": [
                 [
-                    20,
-                    26,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Do you have a normal temperature vegetarian food?",
-        {
-            "entities": [
-                [
-                    44,
-                    48,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    33,
+                    38,
                     43,
-                    "DIET_TYPE"
-                ],
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Hello, thanks for your question - you certainly can. Knead with a reduced time for 5-7 mins with a dough hook. Thanks - Good food team.",
+        {
+            "entities": [
                 [
-                    14,
-                    20,
+                    125,
+                    129,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Drizzle with the 3 tbsp extra sauce (warm briefly in the microwave if it\u2019s a little stiff), allowing some to drip down the sides if you like, and scatter over the toffee, chocolate or caramel pieces to serve. Edible glitter, birthday candles or sparklers, optional.",
+        {
+            "entities": [
+                [
+                    37,
+                    41,
                     "TEMPERATURE"
                 ]
             ]
         }
     ],
     [
-        "I'm in the mood for a hot food item.",
+        "Top this classic carrot cake with moreish cream cheese icing and chopped walnuts or pecans. Serve as a sweet treat with a cup of tea any time of the day.",
         {
             "entities": [
                 [
-                    26,
-                    30,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    22,
-                    25,
-                    "TEMPERATURE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I feel like having a snack.",
-        {
-            "entities": [
-                [
-                    21,
-                    26,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "I want to drink something for lunch",
-        {
-            "entities": [
-                [
-                    10,
-                    15,
-                    "ITEM_CATEGORY"
-                ],
-                [
-                    30,
-                    35,
-                    "MEAL_TYPE"
-                ]
-            ]
-        }
-    ],
-    [
-        "Can you recommend a gluten-free dinner with a sweet taste?",
-        {
-            "entities": [
-                [
-                    46,
-                    51,
+                    103,
+                    108,
                     "FLAVOR_TYPE"
                 ],
                 [
-                    32,
-                    38,
+                    109,
+                    114,
                     "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dear Silvana Franco, I love your Air-fryer cheese &amp; ham toastie recipe, This dish looks like a work of art. Don't miss out on the chance to upload your recipe to KHAL and get valuable tips.",
+        {
+            "entities": [
+                [
+                    81,
+                    85,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "When baking: Don't forget to score, a single line across the whole baguette is enough. Make sure oven is as hot as it can get (230 degrees fan), and when you put the baguettes in, add a large handful of ice into a hot tray at the bottom of the oven. Don't open whilst cooking to help the bread get a\u2026 More",
+        {
+            "entities": [
+                [
+                    108,
+                    111,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "50g parmesan (or vegetarian alternative), grated",
+        {
+            "entities": [
+                [
+                    17,
+                    27,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Get some protein into a vegan diet with this tasty chickpea curry jacket. It's an easy midweek meal, or filling lunch that packs a lot of flavour",
+        {
+            "entities": [
+                [
+                    95,
+                    99,
+                    "ITEM_CATEGORY"
                 ],
                 [
-                    20,
-                    26,
+                    24,
+                    29,
+                    "DIET_TYPE"
+                ],
+                [
+                    112,
+                    117,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Peel the sweet potatoes and slice into \u00bd cm sticks. Put in a bowl, drizzle over the oil and give them a good toss to coat. Sprinkle over the paprika, mixed herbs and \u00bd tsp each of salt and pepper, then give it all a good mix with your hands to ensure it's evenly coated.",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Three small sweet potatoes, cut broc in half lengthways as too aldente",
+        {
+            "entities": [
+                [
+                    12,
+                    17,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 \u00bd tbsp light soy sauce",
+        {
+            "entities": [
+                [
+                    15,
+                    18,
                     "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Divide the dough into six balls and put them on a baking tray dusted with flour, then cover the tray with a damp tea towel. Heat a large non-stick frying pan over a high heat. Take one of the balls of dough and roll it out to form a teardrop shape that\u2019s approximately 21cm long and around 13cm at the widest part. When the pan is very hot, carefully lay the naan bread into it. Let it dry fry and puff up for about 3 mins, then turn over and cook on the other side for another 3-4 mins or until cooked through and charred in patches.",
+        {
+            "entities": [
+                [
+                    336,
+                    339,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "egg noodles tagliatelle or rice, to serve",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip the flours, yeast and salt into a bowl. In a jug, mix the honey with 250ml warm water, pour the liquid into the bowl and mix to form a dough. Rye flour can be quite dry and absorbs lots of water, if the dough looks too dry add more warm water until you have a soft dough Tip out onto your work surface and knead for 10 mins until smooth. Rye contains less gluten than white flour so the dough will not feel as springy as a conventional white loaf.",
+        {
+            "entities": [
+                [
+                    79,
+                    83,
+                    "TEMPERATURE"
+                ],
+                [
+                    360,
+                    366,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Make your own Indian flatbreads at home and you'll never go back to buying them. Delicious eaten warm, these naans are ideal served with your favourite curry",
+        {
+            "entities": [
+                [
+                    97,
+                    101,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oven to 200C/180C fan/gas 6 or if using an air fryer heat to 200C. Mix together the ingredients for the spiced sauce in a bowl. Tip the onion quarters, corn, mango, sweet potatoes and sausages into a roasting tin, then pour over the sauce and stir to coat. Season.",
+        {
+            "entities": [
+                [
+                    174,
+                    179,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat oven to 200C/180 fan/ gas 6 and line a baking tray with parchment. Mix together 1/2 tbsp sesame oil, the soy, ginger, garlic and honey. Put the sweet potato wedges, skin and all, into a glass bowl with the lime wedges. Cover with cling film and microwave on high for 12-14 mins until completely soft.",
+        {
+            "entities": [
+                [
+                    149,
+                    154,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    110,
+                    113,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "A must! Really easy and definitely a step up from the normal Victoria sponge with not much more effort!",
+        {
+            "entities": [
+                [
+                    54,
+                    60,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try making this stew with succulent chunks of aubergine instead of the chicken. Cut 2 medium aubergines into 3cm chunks. Fry for 7 mins instead of 5 in step 1. Simmer the sauce for 5 mins to reduce the liquid slightly before putting the lid on and continue as per the original recipe. Swap out the parmesan for a vegetarian Italian-style cheese or strong cheddar.",
+        {
+            "entities": [
+                [
+                    313,
+                    323,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Showcase zesty lemon flavour in this gluten-free lemon cake \u2013 it's simple to bake and best enjoyed with an afternoon cuppa",
+        {
+            "entities": [
+                [
+                    37,
+                    43,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 red chilli thinly sliced (deseeded if you don't like it too hot)",
+        {
+            "entities": [
+                [
+                    62,
+                    65,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Create a batch of creamy parsnip and carrot soup for a warming lunch or supper. Serve with crusty bread and freeze any leftovers you have for busy days",
+        {
+            "entities": [
+                [
+                    63,
+                    68,
+                    "MEAL_TYPE"
                 ]
             ]
         }

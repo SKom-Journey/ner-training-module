@@ -2,6 +2,7 @@ import spacy
 from spacy.training import Example
 import random
 import json
+import os
 
 # Load the base model
 nlp = spacy.load("en_core_web_sm")
@@ -25,6 +26,8 @@ for _, annotations in train_data:
 
 # Disable other pipelines to only focus on NER
 unaffected_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
+
+os.system('cls')
 
 # Training loop with validation after each epoch
 with nlp.disable_pipes(*unaffected_pipes):

@@ -1,1 +1,2218 @@
-[]
+[
+    [
+        "Put a casserole along with its lid in the oven, then heat the oven to 230C/210C fan/gas 8. Once the oven is at temperature, remove the casserole. Flip the dough onto a square of baking parchment, slash it using a sharp knife and use the sides of the parchment to carefully lower the dough (still on the parchment) into the hot casserole. Cover with the lid. Bake for 25 mins. Remove the lid and bake for 5-10 mins more until it has a deeply golden, crisp crust and sounds hollow when tapped on the bottom. Cool on a wire rack for 40 mins before slicing. Will keep in an airtight container for up to two days.",
+        {
+            "entities": [
+                [
+                    323,
+                    326,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can I substitute the red food colouring for beetroot powder? If so, what quantity should I use?",
+        {
+            "entities": [
+                [
+                    25,
+                    29,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oven to its lowest setting and put the cooked naan bread on a baking sheet. Brush with a little melted butter and cover with foil. Keep warm in the oven and layer up the cooked naans one on top of each other as you make them, brushing each one with melted butter or ghee as you go. Serve warm with curry or dips.",
+        {
+            "entities": [
+                [
+                    145,
+                    149,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 red chilli thinly sliced (deseeded if you don't like it too hot)",
+        {
+            "entities": [
+                [
+                    62,
+                    65,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Hello, thanks for your question - you certainly can. Knead with a reduced time for 5-7 mins with a dough hook. Thanks - Good food team.",
+        {
+            "entities": [
+                [
+                    125,
+                    129,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "What about substituting the rye element for a mix of other artisan flours e.g. buckwheat, millet, rice, teff, sorghum, etc? I'm aware they don't contain gluten but would the wheat element make it rise ok?",
+        {
+            "entities": [
+                [
+                    153,
+                    159,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "250g gluten-free plain flour",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "This dish is better done the traditional deep fry way . A little soggy",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "3 tsp gluten-free baking powder",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Add the vanilla and the eggs, one at a time, adding a spoonful of flour and beating in between each egg.",
+        {
+            "entities": [
+                [
+                    100,
+                    103,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 \u00bd tbsp light soy sauce",
+        {
+            "entities": [
+                [
+                    15,
+                    18,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "4 sweet potatoes",
+        {
+            "entities": [
+                [
+                    2,
+                    7,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oil in a large pan over a medium heat and cook three-quarters of the onion with a pinch of salt for 10 minutes, stirring regularly, until softened. Add the garlic, ginger and curry leaves, if using, and cook for 2 minutes. Add in the spices and cook for 1 minute. Stir in the sweet potato and lentils, then add the coconut milk and stock. Stir well, bring to the boil, then simmer for 15-20 minutes, adding a splash of water if it\u2019s getting dry, until the potatoes and lentils are cooked through. Season.",
+        {
+            "entities": [
+                [
+                    285,
+                    290,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "125g gluten-free plain flour",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat a griddle pan over a high heat until searing hot. Brush the pork chops all over with the oil and butter mixture, season, then cook for 4-6 mins, turning halfway, until cooked through.",
+        {
+            "entities": [
+                [
+                    50,
+                    53,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "A rescue recipe for when there's nothing in the fridge or when you fancy something cheap, this curry is delicious and filling. It's healthy and vegan-friendly, too.",
+        {
+            "entities": [
+                [
+                    144,
+                    149,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 large sweet potatoes cut into wedges",
+        {
+            "entities": [
+                [
+                    8,
+                    13,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "80g cold unsalted butter cubed",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Lovely! Used almond milk to try a dairy free alternative as well as gluten free and they taste perfect! Currently enjoying them with banana and honey.",
+        {
+            "entities": [
+                [
+                    68,
+                    74,
+                    "ALLERGY_TYPE"
+                ],
+                [
+                    34,
+                    39,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 medium (about 500g) sweet potatoes cut into chunks",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Stir in 3 tbsp Thai red curry paste, 1 tbsp smooth peanut butter and 500g sweet potato, peeled and cut into chunks, then add 400ml coconut milk and 200ml water.",
+        {
+            "entities": [
+                [
+                    74,
+                    79,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Rye flour contains less gluten than white flour, meaning the loaf will have a closer texture than a white loaf. Mixing the rye flour with white or wholemeal flour helps to give it more elasticity and therefore a lighter texture, but if you want a more traditional rye bread you can adjust the quantities.",
+        {
+            "entities": [
+                [
+                    24,
+                    30,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Stir in the tomato pur\u00e9e, then pour on the stock and simmer for 5-8 mins until the pork is cooked through. Finally, mix in the soured cream and some seasoning. Serve with egg noodles, tagliatelle or rice, and an extra dollop of soured cream, if you like.",
+        {
+            "entities": [
+                [
+                    171,
+                    174,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Delicious again, used some creamed coconut left over from another meal. Added peanuts this time. Tasty",
+        {
+            "entities": [
+                [
+                    66,
+                    70,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "How to make this keto? and how many carbs remaining without the sweet potato mash?",
+        {
+            "entities": [
+                [
+                    64,
+                    69,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Just made this in a mad dash for a midweek dinner. Delicious sauce and highly effective! We had it with chips, peas and broccoli. Very tasty.",
+        {
+            "entities": [
+                [
+                    43,
+                    49,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Put 125ml warm water into a bowl and sprinkle over the yeast and 1 tsp of the sugar. Leave for 10-15 mins or until frothy. In a larger bowl, put the flour, remaining sugar, \u00bd tsp salt and baking powder. Mix together then make a well in the centre in which to pour the melted butter, yogurt, nigella seeds and yeast mixture. Stir well, then start to bring the mixture together with your hands. If it\u2019s very wet add a spoonful of flour but if it\u2019s dry add a splash more warm water. It should be a very soft dough but not so wet that it won\u2019t come together into a ball.",
+        {
+            "entities": [
+                [
+                    10,
+                    14,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Use special flour to make these quick and easy cr\u00eapes and safely cater for those on a gluten-free diet. Perfect for both sweet and savoury toppings",
+        {
+            "entities": [
+                [
+                    121,
+                    126,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    86,
+                    92,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 tsp gluten-free baking powder",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Long time since I heard sweet potatoes called kumara, as when I worked in Solomon Islands.",
+        {
+            "entities": [
+                [
+                    24,
+                    29,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With a very sharp craft knife or blade, slash the loaves diagonally 5 or 6 times, cutting 1-2cm in. Bake one tray at a time, adding 100ml water to the hot roasting tin and closing the oven door as quickly as you can. Bake for 20 mins or until dark golden, risen and crisp. Cool on racks and enjoy same day, or warmed in a hot oven for a few mins next morning.",
+        {
+            "entities": [
+                [
+                    151,
+                    154,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "We would have preferred the texture of the sweet potato mash without the skins.",
+        {
+            "entities": [
+                [
+                    43,
+                    48,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oven to 200C/180C fan/gas 6 or if using an air fryer heat to 200C. Prick the sweet potatoes all over with a fork, then put on a baking tray and roast in the oven for 45 mins or in air fryer basket for 50 mins or until tender when pierced with a knife.",
+        {
+            "entities": [
+                [
+                    86,
+                    91,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try this Asian-inspired salmon supper with a nutty sesame dressing, crisp veg and comforting sweet potato mash. It's healthy, low-calorie and rich in omega-3",
+        {
+            "entities": [
+                [
+                    93,
+                    98,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Stir the pasta and some seasoning into the cheesy sauce. Tip into a large ovenproof dish, or four individual dishes.",
+        {
+            "entities": [
+                [
+                    84,
+                    88,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Create a batch of creamy parsnip and carrot soup for a warming lunch or supper. Serve with crusty bread and freeze any leftovers you have for busy days",
+        {
+            "entities": [
+                [
+                    63,
+                    68,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Make your own Indian flatbreads at home and you'll never go back to buying them. Delicious eaten warm, these naans are ideal served with your favourite curry",
+        {
+            "entities": [
+                [
+                    97,
+                    101,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "To knead by hand, hold your hands fingers together and palms up, fingers pointing towards each other. Slide your hands underneath the dough at each side. Lift it up as high as you can, then slap it back down with a slight backwards throwing movement, which will cause the dough to fold over itself a little as some of it will stay stuck to the bench. You\u2019ll find that the dough sticks a lot but all this resistance is excellent for forming long strings of gluten.\u00a0Scrape the worktop now and again, and keep going. The dough will change as you work it, becoming a more coherent, if still a little sticky, ball. Once ready, wash your hands with cold water (hot water makes the dough stick more) and dry well before shaping it into a round. To check the dough is really kneaded well enough, press the ball lightly with one finger. The dimple will spring back quickly when ready.",
+        {
+            "entities": [
+                [
+                    643,
+                    647,
+                    "TEMPERATURE"
+                ],
+                [
+                    655,
+                    658,
+                    "TEMPERATURE"
+                ],
+                [
+                    456,
+                    462,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "With a special surprise ingredient, this gluten-free lemon cake stays beautifully moist. To everyone\u2019s amazement it's mash potato!",
+        {
+            "entities": [
+                [
+                    41,
+                    47,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oil in a large shallow casserole dish. Fry the onion over a low-medium heat for 7 mins or until soft and turning translucent. Turn up the heat slightly, add the chicken and fry for 5 mins until beginning to brown around the edges. Tip the garlic and chilli into the casserole and fry for 1 min. Stir through the pesto, pour in the stock and tomatoes, then add the thyme, sugar and some seasoning. Turn the heat to low and cover with a lid. Cook gently for 40 mins. Remove the thyme and check the seasoning.",
+        {
+            "entities": [
+                [
+                    42,
+                    46,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 tbsp sweet chilli sauce",
+        {
+            "entities": [
+                [
+                    7,
+                    12,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Love this recipe. I can cook dinner for the next while cooking today\u2019s dinner, time saving and extra tasty",
+        {
+            "entities": [
+                [
+                    29,
+                    35,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Either freeze the shaped dough before it rises, then defrost and let it prove before baking, or freeze the finished breads as soon as the loaves are cool. Thaw and then refresh in a hot oven for a few mins.",
+        {
+            "entities": [
+                [
+                    182,
+                    185,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "When baking: Don't forget to score, a single line across the whole baguette is enough. Make sure oven is as hot as it can get (230 degrees fan), and when you put the baguettes in, add a large handful of ice into a hot tray at the bottom of the oven. Don't open whilst cooking to help the bread get a\u2026 More",
+        {
+            "entities": [
+                [
+                    108,
+                    111,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pour in the stock, then cover and simmer for 20 mins until the lentils are pulpy and tender. Remove from the heat and roughly blitz using a hand blender \u2013 you don\u2019t want it to be completely smooth. Stir in the chickpeas and the liquid from the cans, and reheat the soup. Serve two bowls straightaway, each topped with 25g of the crumbled feta. Leave the remaining soup to cool before keeping chilled for up to four days. Reheat in a pan over a low heat until piping hot, then scatter over 25g of the remaining feta for each portion.",
+        {
+            "entities": [
+                [
+                    466,
+                    469,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oven to 180C/160C fan/gas 4. Butter a 30 x 20cm deep baking dish.",
+        {
+            "entities": [
+                [
+                    69,
+                    73,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Meanwhile, make the batter. Whisk the eggs in a bowl, then set aside. In a second bowl, combine the plain flour, cornflour, garlic salt, garlic powder, bicarbonate of soda and red pepper powder, then tip half of the mixture into another bowl. Set one aside. Stir the whisked eggs into one bowl of the flour mixture with 3-5 tbsp cold water, adding 1 tbsp at a time. Mix well until it\u2019s the consistency of double cream.",
+        {
+            "entities": [
+                [
+                    329,
+                    333,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "These rich, fudgy chocolate brownies are gluten-free. Serve with a scoop of vanilla ice cream for dessert, or enjoy as an afternoon treat with a cup of tea",
+        {
+            "entities": [
+                [
+                    132,
+                    137,
+                    "MEAL_TYPE"
+                ],
+                [
+                    41,
+                    47,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Nice cake indeed, but the icing is much too sweet (nearly sickly sweet... and yet, I'm a real sugar addict!).\nAny idea of another icing? maybe a carrot-cake type icing (half cream cheese/mascarpone, half butter)?\nThanks a lot for your help",
+        {
+            "entities": [
+                [
+                    44,
+                    49,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip into a food processor with a handful of coriander then blitz until smooth (you may need to do this in two batches). Return to pan, taste, add salt if necessary, then reheat to serve.",
+        {
+            "entities": [
+                [
+                    11,
+                    15,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Get some protein into a vegan diet with this tasty chickpea curry jacket. It's an easy midweek meal, or filling lunch that packs a lot of flavour",
+        {
+            "entities": [
+                [
+                    95,
+                    99,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    24,
+                    29,
+                    "DIET_TYPE"
+                ],
+                [
+                    112,
+                    117,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Warm up on a cold day with our carrot soup, spiked with ginger, garlic and curry powder. A dollop of chilli coriander pesto gives the soup an added kick",
+        {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "25g parmesan (or vegetarian parmazano), grated",
+        {
+            "entities": [
+                [
+                    17,
+                    27,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "This was delicious. My family of six polished this off with steamed veg and crusty bread for a Sunday family dinner. The only complaint I received is that I\u2019d put too much cheese in the dumpling\u2026 I might cut it back a little bit next time, but still find it delicious as is.",
+        {
+            "entities": [
+                [
+                    109,
+                    115,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Rustle up a hearty pasta soup for a satisfying lunch or supper. Our easy ideas include chunky minestrone, pasta e fagioli, and orzo & chickpea soup",
+        {
+            "entities": [
+                [
+                    47,
+                    52,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try a modern take on stew and dumplings with Italian classic tomato alla arrabbiata and parmesan dumplings. Simple and oh so comforting, it's perfect for cold weather cooking",
+        {
+            "entities": [
+                [
+                    154,
+                    158,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Meanwhile, heat 2 tbsp vegetable oil in a wok over a high heat and stir-fry the garlic, ginger, chilli, pepper and white ends of the spring onions for 2-3 mins until the pepper softens. Be careful not to burn the ginger and garlic. Add the vinegar, soy, sweet chilli sauce and tomato ketchup, mix well and cook for another minute until bubbling.",
+        {
+            "entities": [
+                [
+                    254,
+                    259,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    249,
+                    252,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1\u00bd tbsp light soy sauce",
+        {
+            "entities": [
+                [
+                    14,
+                    17,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Three small sweet potatoes, cut broc in half lengthways as too aldente",
+        {
+            "entities": [
+                [
+                    12,
+                    17,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 egg",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Crumble 50g stilton, dolcelatte or roquefort into the sauce, instead of the parmesan. Spoon the pasta into the dish, then top with 4 trimmed field mushrooms, gills facing upwards, instead of the crumbs. Drizzle with a little oil, season, then top with a little more blue cheese. Bake as before.",
+        {
+            "entities": [
+                [
+                    111,
+                    115,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "200g gluten-free white flour",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Combine the honey, soy, rice vinegar and garlic in a small bowl. Mix the oil and butter in another bowl.",
+        {
+            "entities": [
+                [
+                    19,
+                    22,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you make it earlier in the day and warm through before eating?",
+        {
+            "entities": [
+                [
+                    39,
+                    43,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Drizzle with the 3 tbsp extra sauce (warm briefly in the microwave if it\u2019s a little stiff), allowing some to drip down the sides if you like, and scatter over the toffee, chocolate or caramel pieces to serve. Edible glitter, birthday candles or sparklers, optional.",
+        {
+            "entities": [
+                [
+                    37,
+                    41,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Almost all British cheddar cheese is vegetarian. It is simply made with microbial rennet instead of animal rennet and tastes identical.",
+        {
+            "entities": [
+                [
+                    37,
+                    47,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "We made it in a slow cooker as we didn't have the right sort of dish. It turned out very well, approx 1.5hrs or so on high. Also I cut the sugar from 250 to 200 for the sponge and from 130 to 100 for the drizzle. If I made it again I would cut the sugar further as it is still very sweet",
+        {
+            "entities": [
+                [
+                    64,
+                    68,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    282,
+                    287,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "3 tbsp Thai red curry paste (check the label to make sure it\u2019s vegetarian/ vegan)",
+        {
+            "entities": [
+                [
+                    75,
+                    80,
+                    "DIET_TYPE"
+                ],
+                [
+                    63,
+                    73,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1.7l hot vegetable stock",
+        {
+            "entities": [
+                [
+                    5,
+                    8,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Great recipe, next time I\u2019ll double the seasonings however as there wasn\u2019t a great deal of flavour, however I did use vegetarian chicken, that might be why",
+        {
+            "entities": [
+                [
+                    118,
+                    128,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Did you really mean 4 tbsp (tablespoons) mild curry powder for this recipe?  The soup was delicious but far too hot and ended up being thrown away.",
+        {
+            "entities": [
+                [
+                    112,
+                    115,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "\u00bd tbsp dark soy sauce",
+        {
+            "entities": [
+                [
+                    12,
+                    15,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Whisk the egg yolk and evenly brush the tops of the scones, making sure that the egg wash doesn\u2019t run down the sides of the scones otherwise they will rise unevenly. Put the scones on a tray and transfer to the freezer for 15 mins. Heat oven to 220C/200C fan/gas 7. Remove the scones from the freezer and brush the tops with the beaten egg again, then bake for 12-15 mins until golden brown. Eat just warm or cold, generously topped with jam and cream, if you like.",
+        {
+            "entities": [
+                [
+                    409,
+                    413,
+                    "TEMPERATURE"
+                ],
+                [
+                    401,
+                    405,
+                    "TEMPERATURE"
+                ],
+                [
+                    10,
+                    13,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip the dough back onto your work surface and knead briefly to knock out any air bubbles. If using caraway seeds work these in to the dough. Shape into a smooth oval loaf and pop into your tin. Cover the tin with oiled cling film and leave to rise somewhere warm for a further 1 \u2013 1.5 hr, or until doubled in size.",
+        {
+            "entities": [
+                [
+                    258,
+                    262,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "These gluten-free scones use simple substitutes to achieve a perfect fluffy texture. Add sultanas if you like and serve with oodles of jam and clotted cream",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Top this classic carrot cake with moreish cream cheese icing and chopped walnuts or pecans. Serve as a sweet treat with a cup of tea any time of the day.",
+        {
+            "entities": [
+                [
+                    103,
+                    108,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    109,
+                    114,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the air-fryer to 180C. Bake the split bagel for 2-3 mins to toast it lightly. Remove from the air-fryer and make the hole in the top bagel slightly wider by cutting with a sharp knife (this is to make the egg easier to fit \u2013 if the bagel has a wide hole already this may not be necessary). Spread the chilli jam or chutney on the bottom slice, then sprinkle over the cheddar and add a slice of ham. Top with the other half of bagel and cook for 5 mins in the air-fryer to melt the cheese a little.",
+        {
+            "entities": [
+                [
+                    210,
+                    213,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Lightly toast (1min or so) then add cheese and ham and toast again for 1-2mins. Finally, add the egg on top, I only used half the egg whites otherwise it gets a bit messy. Then cook for another 3-4mins",
+        {
+            "entities": [
+                [
+                    97,
+                    100,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I used chicken instead and it was delicious,  even kids loved  this meal.",
+        {
+            "entities": [
+                [
+                    68,
+                    72,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "500g sweet potato peeled and cut into chunks",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "100g gluten-free plain flour sieved",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "A must! Really easy and definitely a step up from the normal Victoria sponge with not much more effort!",
+        {
+            "entities": [
+                [
+                    54,
+                    60,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Recreate a classic British Chinese takeaway dish for the home kitchen, with crispy fried chicken breast served with a fresh, tangy and moreish lemon sauce",
+        {
+            "entities": [
+                [
+                    44,
+                    48,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "I used vegan yoghurt ..used garlic which I don't think I will again . And forgot the coriander and lime . That was a big miss. And just used sliced cucumber. Again a mistake.",
+        {
+            "entities": [
+                [
+                    7,
+                    12,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bake for 45-50 mins, giving it a toss halfway through, until the sausages are cooked through and the sweet potato is soft. If freezing, leave to cool completely first. Can be frozen for up to one month. Defrost thoroughly before reheating in the oven at 200C/180C fan/gas 6 for 35-40 mins. Serve sprinkled with the coriander and chilli, if you like.",
+        {
+            "entities": [
+                [
+                    101,
+                    106,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Reduce the air-fryer temperature to 170C. Pour the egg mixture into the tin or tins and cook for 8-12 mins until the frittata is golden and completely set.",
+        {
+            "entities": [
+                [
+                    51,
+                    54,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "50g parmesan (or vegetarian alternative), grated",
+        {
+            "entities": [
+                [
+                    17,
+                    27,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Xantham gum is the gluten substitute which give the dough the cohesive stickiness that wheat flour would.  Cornflour wouldn\u2019t work.   But if you\u2019re using a good g/f self raising flour such as Doves Farm, it may work without this addition.  Try it without and see what you think.",
+        {
+            "entities": [
+                [
+                    19,
+                    25,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 tbsp low-salt soy sauce",
+        {
+            "entities": [
+                [
+                    16,
+                    19,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Remove the lime wedges and roughly mash the sweet potato using a fork. Mix in the remaining sesame oil, the chilli and some seasoning. Divide between plates, along with the salmon and broccoli.",
+        {
+            "entities": [
+                [
+                    44,
+                    49,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I freeze half the batch every time I make these and warm in the oven sprinkled with a bit of water, perfect!",
+        {
+            "entities": [
+                [
+                    52,
+                    56,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Cook this tasty, budget-friendly vegan curry for an easy family dinner. With spinach and sweet potato, it boasts two of your five-a-day and it\u2019s under 400 calories",
+        {
+            "entities": [
+                [
+                    89,
+                    94,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    33,
+                    38,
+                    "DIET_TYPE"
+                ],
+                [
+                    64,
+                    70,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "egg noodles tagliatelle or rice, to serve",
+        {
+            "entities": [
+                [
+                    0,
+                    3,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip the remaining 3 tbsp oil into a small food processor along with the coriander, remaining garlic, pine nuts and chilli. Whizz until smooth, then tip into a bowl and stir in the parmesan and lemon zest. If it\u2019s too thick, loosen with 1 tbsp water.",
+        {
+            "entities": [
+                [
+                    42,
+                    46,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "This rye bread recipe is lower in gluten than the average white loaf. It uses white or wholemeal flour to give a light texture but you can experiment with ratios",
+        {
+            "entities": [
+                [
+                    34,
+                    40,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "30ml red food colouring gel or about \u00bc tsp food colouring paste, (use a professional food colouring paste if you can, a natural liquid colouring won't work and may turn the sponge green)",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Easy. I added Cajun spice seasoning/smoked paprika/cayenne pepper. Some chopped ham that was in the fridge. Short macaroni ( rinsed in cold water after cooking, then drained, whilst making the sauce. Didn't have a baguette. Mixed some cheddar &amp; rest of parmesan with some shop bought bread\u2026 More",
+        {
+            "entities": [
+                [
+                    135,
+                    139,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I mixed 250g rye, 250g strong white, 1.5 tsp fast acting yeast, 1.5 tsp rock salt,1tsp caraway seeds, and ten added 300ml warm water. It didn't rise well first time and even worse second time. Any suggestions?",
+        {
+            "entities": [
+                [
+                    122,
+                    126,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 tsp soy sauce",
+        {
+            "entities": [
+                [
+                    6,
+                    9,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Make our ham, cheese and egg bagel sandwich for lunch with the help of your air-fryer. Serve with chilli jam or red onion chutney for added tang",
+        {
+            "entities": [
+                [
+                    48,
+                    53,
+                    "MEAL_TYPE"
+                ],
+                [
+                    25,
+                    28,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Combine the reserved mushroom water with 200ml cold water, tip into a saucepan and bring to the boil over a high heat, then add the mushroom mixture. Tip in the light soy sauce, dark soy sauce, sugar and oyster sauce and mix well. Reduce the heat to medium-low and braise for 15-20 mins until it reduces a little.",
+        {
+            "entities": [
+                [
+                    47,
+                    51,
+                    "TEMPERATURE"
+                ],
+                [
+                    167,
+                    170,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip the flours, yeast and salt into a bowl. In a jug, mix the honey with 250ml warm water, pour the liquid into the bowl and mix to form a dough. Rye flour can be quite dry and absorbs lots of water, if the dough looks too dry add more warm water until you have a soft dough Tip out onto your work surface and knead for 10 mins until smooth. Rye contains less gluten than white flour so the dough will not feel as springy as a conventional white loaf.",
+        {
+            "entities": [
+                [
+                    79,
+                    83,
+                    "TEMPERATURE"
+                ],
+                [
+                    360,
+                    366,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Start your Lunar New Year celebrations with this dish of vegetables made with shiitake mushrooms, pak choi, ginger, garlic and oyster sauce",
+        {
+            "entities": [
+                [
+                    49,
+                    53,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat oven to 200C/180 fan/ gas 6 and line a baking tray with parchment. Mix together 1/2 tbsp sesame oil, the soy, ginger, garlic and honey. Put the sweet potato wedges, skin and all, into a glass bowl with the lime wedges. Cover with cling film and microwave on high for 12-14 mins until completely soft.",
+        {
+            "entities": [
+                [
+                    149,
+                    154,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    110,
+                    113,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dipping a finger into cold water, wet the bottom half edges of a dumpling wrapper, then add \u00bd tbsp of the filling into the centre.",
+        {
+            "entities": [
+                [
+                    22,
+                    26,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Worked much better with real cheddar cheese rather than vegetarian cheese.",
+        {
+            "entities": [
+                [
+                    56,
+                    66,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bring to the boil, turn down the heat and simmer, uncovered, for 25-30 mins or until the sweet potato is soft.",
+        {
+            "entities": [
+                [
+                    89,
+                    94,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Use your air fryer to whip up crispy chilli beef for dinner. It takes just 30 minutes to make \u2013 perfect for a crowdpleasing midweek meal",
+        {
+            "entities": [
+                [
+                    132,
+                    136,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    53,
+                    59,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "A vibrant, low-calorie and vegan dinner idea, made with sweet potatoes, red split lentils, coconut milk and plenty of spices. Enjoy with a naan or pilau rice",
+        {
+            "entities": [
+                [
+                    56,
+                    61,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    27,
+                    32,
+                    "DIET_TYPE"
+                ],
+                [
+                    33,
+                    39,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Was apprehensive about having potato in a cake\u2026 but went off of the reviews and did not disappoint! Made it for my better half\u2019s mum as she\u2019s gluten free. Went down very well with the family. Would recommend to anyone. But add one more lemon zest to the mixture.",
+        {
+            "entities": [
+                [
+                    142,
+                    148,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I am thinking of using my pumpkin for this recipe.\nIt's heartbreaking to see how they are all being composted and thrown away. Such a waste of food, when people are using food banks regularly in the UK in 2024.\nMy question is, is that a suitable replacement, taste and texture to butternut squash?",
+        {
+            "entities": [
+                [
+                    143,
+                    147,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tuck into a bowl of satisfying vegetable stew with dumplings. Ideal on cold wintery nights, serve with mash for hearty comfort food for the whole family",
+        {
+            "entities": [
+                [
+                    127,
+                    131,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    71,
+                    75,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 tbsp soy sauce",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I gave the sweet potatoes a 20-minute headstart. I replaced the sauce with the following: 2 tbsps each of olive oil, Dijon mustard and honey, 1 tsp garlic powder, pinch of salt and pepper. Mix well and pour over, 20 mins before the end of the oven time. You can add water or stock to increase the\u2026 More",
+        {
+            "entities": [
+                [
+                    11,
+                    16,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 large egg and 1 egg yolk",
+        {
+            "entities": [
+                [
+                    8,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "So disappinted. What a waste of money and food... Followed every step. Bread turned out to be one big clump....",
+        {
+            "entities": [
+                [
+                    42,
+                    46,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Showcase zesty lemon flavour in this gluten-free lemon cake \u2013 it's simple to bake and best enjoyed with an afternoon cuppa",
+        {
+            "entities": [
+                [
+                    37,
+                    43,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Make this easy one-pot dish with a delicious umami Chinese sauce. It\u2019s flavour-packed and full of different textures",
+        {
+            "entities": [
+                [
+                    23,
+                    27,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 tsp gluten-free baking powder",
+        {
+            "entities": [
+                [
+                    6,
+                    12,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 tsp sweet smoked paprika or other seasonings such as Cajun seasoning, BBQ seasoning or garlic granules",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "250g vegetarian mature cheddar grated",
+        {
+            "entities": [
+                [
+                    5,
+                    15,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Serve up this sensational sausage and sweet potato traybake for an easy family meal. To make things even simpler, you can freeze it for busy weeknights",
+        {
+            "entities": [
+                [
+                    79,
+                    83,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    38,
+                    43,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "GCSE food type comment",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "A quick, gluten-free bread recipe - no need for yeast, ready in under an hour",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Put the flour in a bowl and make a well in the centre. Crack the egg in the middle and pour in a quarter of the milk. Use an electric or balloon whisk to thoroughly combine the mixture. Once you have a paste, mix in another quarter and once lump free, mix in the remaining milk. Leave to rest for 20 mins. Stir again before using.",
+        {
+            "entities": [
+                [
+                    65,
+                    68,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 sweet potatoes",
+        {
+            "entities": [
+                [
+                    2,
+                    7,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Peel the sweet potatoes and slice into \u00bd cm sticks. Put in a bowl, drizzle over the oil and give them a good toss to coat. Sprinkle over the paprika, mixed herbs and \u00bd tsp each of salt and pepper, then give it all a good mix with your hands to ensure it's evenly coated.",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "When the pan starts smoking, put a chapati on it. Cook until the underside has brown spots, about 30 seconds, then flip and cook on the other side. Put on a plate and keep warm while you cook the rest of the chapatis.",
+        {
+            "entities": [
+                [
+                    172,
+                    176,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip the flour into a bowl with \u00bd tsp salt. Stir in the suet, then make a well in the centre. Add 3 tbsp cold water and mix until a dough forms, adding a little more water if needed until the dough is firm but pliable. Divide into eight equal pieces and roll each one into a ball on a lightly floured surface. Arrange in an even layer on top of the stew, cover and cook for 20 mins, stirring occasionally. Remove the lid for the last 5 mins of cooking time. Stir in the parsley and serve with mash.",
+        {
+            "entities": [
+                [
+                    104,
+                    108,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Combine the mushroom water with 250ml cold water in the pan and bring to the boil. Add back the mushrooms and bean curd and cook on a medium-low heat for 15 mins. Add the oyster sauce, light soy sauce, dark soy sauce, sugar and \u00bd tsp salt, then mix well.",
+        {
+            "entities": [
+                [
+                    38,
+                    42,
+                    "TEMPERATURE"
+                ],
+                [
+                    191,
+                    194,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Hi! Did you add honey or other sugar to help kickstart the yeast? Even fast acting yeast needs a bit of help. Adding the seeds in the mix at the beginning would also prevent the first rise from happening, I think because the ends puncture the forming bubbles? Or they mess up the forming gluten\u2026 More",
+        {
+            "entities": [
+                [
+                    288,
+                    294,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "40g cold butter cubed",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Create wonderfully cooked sweet potato fries in an air fryer using very little oil. Then toss in sweet smoked paprika, Cajun or BBQ seasonings to ramp up the flavour",
+        {
+            "entities": [
+                [
+                    26,
+                    31,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dear Silvana Franco, I love your Air-fryer cheese &amp; ham toastie recipe, This dish looks like a work of art. Don't miss out on the chance to upload your recipe to KHAL and get valuable tips.",
+        {
+            "entities": [
+                [
+                    81,
+                    85,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "40g parmesan or vegetarian alternative, finely grated",
+        {
+            "entities": [
+                [
+                    16,
+                    26,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Great curry. I cook those lentils and sweet potatoes and it's so relaxing.",
+        {
+            "entities": [
+                [
+                    38,
+                    43,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "250g gluten-free self-raising flour",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Full of flavour. My little girl loved this. Great meal for all the family.",
+        {
+            "entities": [
+                [
+                    50,
+                    54,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Up your veg count and get three of your five-a-day with this fragrant, low fat vegetarian curry",
+        {
+            "entities": [
+                [
+                    79,
+                    89,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "When you\u2019re happy with the consistency, start kneading, first in the bowl, then transfer the mixture onto a well-floured surface and continue to knead for 10 mins or until smooth and elastic but still soft. Butter a large bowl, then shape the dough into a ball and place in the prepared bowl. Cover and leave in a warm place for about 1 hr or until doubled in size.",
+        {
+            "entities": [
+                [
+                    314,
+                    318,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat a frying pan over medium heat until hot, and grease lightly. On a lightly floured surface, use a floured rolling pin to roll out the balls of dough until very thin like a tortilla.",
+        {
+            "entities": [
+                [
+                    41,
+                    44,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pack lentils into a carrot soup for a filling, hearty lunch. As well as being rich in protein and fibre, lentils are a good source of B vitamins and iron",
+        {
+            "entities": [
+                [
+                    54,
+                    59,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip the pork and chives into a bowl. Add the light soy sauce, oyster sauce, white pepper, 1 tsp salt, the sugar, cornflour and sesame oil, then mix well. Cover and leave to marinate in the fridge for 1 hr. Meanwhile, combine the dumpling sauce ingredients in a bowl and put in the fridge until needed.",
+        {
+            "entities": [
+                [
+                    51,
+                    54,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "When the dough has doubled in size and is light and pillowy, tip it out onto a work surface and knead it a few more times to knock the air out. Gather the dough into a ball and leave to rest for 5 mins. Gently form the dough ball into a tight, rounded shape on the work surface, then tip domed-side down into a proving basket or bowl lined with a clean tea towel. Leave to prove in a warm place for 40 mins-1 hr, or in the fridge for 2-3 hrs until roughly doubled in size.",
+        {
+            "entities": [
+                [
+                    384,
+                    388,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Divide the dough into six balls and put them on a baking tray dusted with flour, then cover the tray with a damp tea towel. Heat a large non-stick frying pan over a high heat. Take one of the balls of dough and roll it out to form a teardrop shape that\u2019s approximately 21cm long and around 13cm at the widest part. When the pan is very hot, carefully lay the naan bread into it. Let it dry fry and puff up for about 3 mins, then turn over and cook on the other side for another 3-4 mins or until cooked through and charred in patches.",
+        {
+            "entities": [
+                [
+                    336,
+                    339,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Had to finish the potatoes in the air fryer, but think tray wasn\u2019t big enough to properly cook them under the chicken.\nWas delicious - am going to develop for a summer Sunday lunch with a whole chicken\u2026",
+        {
+            "entities": [
+                [
+                    175,
+                    180,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Need an easy dinner midweek? You can prep these speedy chops using storecupboard ingredients in just 5 mins and cook them in 10",
+        {
+            "entities": [
+                [
+                    13,
+                    19,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "This was delicious! Took the advice and didn't bother with the Mango. I did roast the potatoes for 20mins first before adding to the tray. Ideal dish for the winter!",
+        {
+            "entities": [
+                [
+                    145,
+                    149,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Remove the bagel from the air-fryer, then either crack the egg directly into the hole in the top of the bagel. If the egg seems a little too large, you can try lifting up the bagel slice just a little to allow some of the white to sit underneath. Put in the air-fryer and bake for 8-10 mins until the egg is cooked to your liking, the cheese has melted and the bagel is golden. Grind over a little black pepper, if you like.",
+        {
+            "entities": [
+                [
+                    59,
+                    62,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 sweet potatoes scrubbed and cut into wedges",
+        {
+            "entities": [
+                [
+                    2,
+                    7,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oven to 200C/180C fan/gas 6 or if using an air fryer heat to 200C. Mix together the ingredients for the spiced sauce in a bowl. Tip the onion quarters, corn, mango, sweet potatoes and sausages into a roasting tin, then pour over the sauce and stir to coat. Season.",
+        {
+            "entities": [
+                [
+                    174,
+                    179,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "We can't resist a warm chapati with our favourite curry. This traditional Indian side dish is easier than you think and only takes a handful of ingredients",
+        {
+            "entities": [
+                [
+                    86,
+                    90,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    18,
+                    22,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Master roast pork with crispy crackling using our easy recipe. This makes for a special Sunday lunch, served with roast potatoes and veg",
+        {
+            "entities": [
+                [
+                    95,
+                    100,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "What gluten free flour works best for these brownies?",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip the beef into the wok and toss through the sauce. Continue cooking for another minute until piping hot, then serve scattered with the spring onion greens and a little extra sauce on the side.",
+        {
+            "entities": [
+                [
+                    103,
+                    106,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dust a clean patch of worktop and the dough with a little more flour, then fold the dough inwards on itself to make a ball. It will be dry to touch on the outside, but pleasingly wobbly and alive within. Transfer to a lightly floured large bowl, cover with a clean teatowel and let rise for 1\u00bd hours in a warm, draft-free place until doubled in size.",
+        {
+            "entities": [
+                [
+                    305,
+                    309,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "175g ground almond (switch for polenta or wheat-free flour to make this recipe nut-free)",
+        {
+            "entities": [
+                [
+                    79,
+                    82,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mix half each of the buttermilk, oil, vanilla extract, food colouring and 100ml water in a jug. Add 2 eggs and whisk until smooth.",
+        {
+            "entities": [
+                [
+                    55,
+                    59,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat oven to 180C/fan 160C/gas 4. Butter and line a deep, 20cm round cake tin. Beat the sugar and butter together until light and fluffy, then gradually add the egg, beating after each addition. Fold in the almonds, cold mashed potato, lemon zest and baking powder.",
+        {
+            "entities": [
+                [
+                    216,
+                    220,
+                    "TEMPERATURE"
+                ],
+                [
+                    161,
+                    164,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "If you\u2019d like to make this nut-free, as well as wheat-free, switch the ground almonds for polenta or wheat-free flour.",
+        {
+            "entities": [
+                [
+                    27,
+                    30,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "180ml hot water or as needed",
+        {
+            "entities": [
+                [
+                    6,
+                    9,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The soup is really affordable to make, a d you get a lot of portions out of it. I doubled up and used 2x the amount of everything but the oil. I also used 2.4L of water with 4 vegetable stock cubes, and I added 3 tbsp of salt as I like my soup savoury rather than sweet. Its great for batch cooking\u2026 More",
+        {
+            "entities": [
+                [
+                    264,
+                    269,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Spoon the sponge batter into the dish and smooth over the top.",
+        {
+            "entities": [
+                [
+                    33,
+                    37,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Put the roasted sweet potatoes on four plates and cut open lengthways. Spoon over the chickpea curry and squeeze over the lemon wedges. Season, then scatter with coriander before serving.",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try making this stew with succulent chunks of aubergine instead of the chicken. Cut 2 medium aubergines into 3cm chunks. Fry for 7 mins instead of 5 in step 1. Simmer the sauce for 5 mins to reduce the liquid slightly before putting the lid on and continue as per the original recipe. Swap out the parmesan for a vegetarian Italian-style cheese or strong cheddar.",
+        {
+            "entities": [
+                [
+                    313,
+                    323,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Whisk together the milk and whole egg and gradually mix into the flour mixture with your hands until you have a smooth dough. Mix in the sultanas, if using. Knead briefly to come together into a ball.",
+        {
+            "entities": [
+                [
+                    34,
+                    37,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "250g soft butter plus extra for the dish",
+        {
+            "entities": [
+                [
+                    36,
+                    40,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Followed the recipe to the letter and this hearty vegetable stew was delicious and a lovely meal for a cold Autumn evening. Will definitely make again x",
+        {
+            "entities": [
+                [
+                    92,
+                    96,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    103,
+                    107,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mix the flour, salt, xanthan gum, baking powder and sugar together in a bowl. Rub in the butter with your fingertips until you have fine breadcrumbs. You can also do this by gradually pulsing the mixture in a food processor until it resembles breadcrumbs.",
+        {
+            "entities": [
+                [
+                    209,
+                    213,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Place the dough in a well oiled bowl, cover with cling film and leave to rise in a warm place for 1-2 hrs, or until roughly doubled in size. Dust a 2lb/900g loaf tin with flour.",
+        {
+            "entities": [
+                [
+                    83,
+                    87,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Two small sweet potatoes each, peel, add green beans less ginger more sesame oil, 12 minutes for thick salmon, 10 for thin. All done in 15 minutes.",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "While the pudding is baking, make the lemon drizzle. Mix the icing sugar with enough lemon juice (about half of it) to create a loose consistency. Drizzle over the sponge while it\u2019s still warm and decorate with the reserved lemon zest. Serve straightaway with cream or custard.",
+        {
+            "entities": [
+                [
+                    188,
+                    192,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Enjoy this filling vegetarian soup with red lentils, carrots and leeks. It's low in calories and fat, and delivers three of your five-a-day",
+        {
+            "entities": [
+                [
+                    19,
+                    29,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ]
+]

@@ -16,8 +16,5 @@ def write_scrap_data_to_dataset(data: List[MenuData]):
         # Write JSON to file
         with open(file_path, 'w') as file:
             file.write(json_data)
-
-        print(f"Total Scraped: {len(data)}")
-        print(f"Output written at: {file_path}")
     except Exception as e:
         print("Error writing to file:", e)

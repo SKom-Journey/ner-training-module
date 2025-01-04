@@ -16,11 +16,17 @@ def get_menu_data(page: Page, source: str) -> MenuData:
     image_url = get_menu_image_url(page)
     tags = get_menu_tags(page)
     comments = get_menu_comments(page)
+    nutritions = get_menu_nutritions(page)
+    tips = get_menu_tips(page)
+    steps = get_menu_steps(page)
     related_links = get_menu_related_links(page)
 
     # Return an instance of MenuData
     return MenuData(
         source=source,
+        tips=tips,
+        nutritions=nutritions,
+        steps=steps,
         tags=tags,
         comments=comments,
         title=title,

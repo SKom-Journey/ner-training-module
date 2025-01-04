@@ -15,8 +15,43 @@ def get_menu_description(page: Page) -> str:
     )
     return (element.text_content().strip()) if element else ""
 
+def get_menu_nutritions(page: Page) -> list[str]:
+    elements = page.query_selector_all('.nutrition-list__item')
+    results = []
+
+    for element in elements:
+        if element:
+            # Extract the label (e.g., "salt") from the <span>
+            label = element.query_selector('span.fw-600').text_content().strip()
+
+            # Extract the rest of the content excluding the label
+            value = element.text_content().replace(label, '').strip()
+
+            # Remove any additional text (e.g., "low") from the value
+            additional_text_element = element.query_selector('.nutrition-list__additional-text')
+            additional_text = additional_text_element.text_content().strip() if additional_text_element else ""
+
+            # If there's additional text, separate it cleanly
+            if additional_text:
+                value = value.replace(additional_text, '').strip()
+                result = f"{label} {value} {additional_text}"
+            else:
+                result = f"{label} {value}"
+
+            results.append(result)
+
+    return results
+
 def get_menu_ingredients(page: Page) -> list[str]:
     elements = page.query_selector_all('.ingredients-list__item')
+    return [element.text_content().strip() for element in elements if element]
+
+def get_menu_tips(page: Page) -> list[str]:
+    elements = page.query_selector_all('.highlight-box__content.editor-content p')
+    return [element.text_content().strip() for element in elements if element]
+
+def get_menu_steps(page: Page) -> list[str]:
+    elements = page.query_selector_all('.method-steps__list-item .editor-content p')
     return [element.text_content().strip() for element in elements if element]
 
 def get_menu_tags(page: Page) -> list[str]:

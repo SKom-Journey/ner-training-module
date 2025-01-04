@@ -1,6 +1,16 @@
 # Install All Dependencies
 - `pip install -r requirements.txt`
 
+# Union Commands (Replace ';' to '&' For Linux / Mac)
+## Scrap, Build Dataset, Train and Evaluate
+- python scrap.py; python build_json.py; python train.py; python evaluate.py
+
+## Scrap and Build Dataset
+- python scrap.py; python build_json.py
+
+## Train and Evaluate
+- python train.py; python evaluate.py
+
 # How to Generate the Model
 - `python build_json.py` (build train, val and test set)
 - `python train.py` (train the model)

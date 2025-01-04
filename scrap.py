@@ -4,11 +4,16 @@ from utils.get_menu_data import get_menu_data
 from utils.write_scrap_data_to_json import write_scrap_data_to_json
 import os
 
-NUMBER_OF_MENUS_TO_SCRAPE = 10
-STARTING_URL = "https://www.bbcgoodfood.com/recipes"
+NUMBER_OF_MENUS_TO_SCRAPE = 50
+STARTING_URL = "https://www.bbcgoodfood.com/recipes/gluten-free-lemon-drizzle-cake"
 scrapped_menus = []  # List to store scrapped menu data
 scrapped_menu_urls = []  # List to track already scrapped URLs
-other_menu_urls = []  # List to track discovered related links
+other_menu_urls = [
+    "https://www.bbcgoodfood.com/recipes/easy-pork-chive-dumplings",
+    "https://www.bbcgoodfood.com/recipes/air-fryer-cheese-ham-toastie",
+    "https://www.bbcgoodfood.com/recipes/carrot-coriander-soup",
+    "https://www.bbcgoodfood.com/recipes/satay-sweet-potato-curry"
+]  # List to track discovered related links
 
 with sync_playwright() as p:
     os.system('cls')
