@@ -2,51 +2,12 @@ import re
 import json
 from sklearn.model_selection import train_test_split
 import os
+from utils.annotate_sentence import *
+from config.entities import *
 
-# Input data: Labels and keywords
-labels_with_keywords = [
-    {
-        "label": "ITEM_CATEGORY",
-        "keywords": ["dish", "food", "drink", "meal"] 
-    },
-    {
-        "label": "FLAVOR_TYPE",
-        "keywords": ["spicy", "sweet", "savory", "sour", "bitter"]
-    },
-    {
-        "label": "DIET_TYPE",
-        "keywords": ["vegan", "vegetarian"]
-    },
-    {
-        "label": "MEAL_TYPE",
-        "keywords": ["lunch", "snack","breakfast", "dinner", "treat"]
-    },
-    {
-        "label": "TEMPERATURE",
-        "keywords": ["cold", "warm", "hot", "normal"]
-    },
-    {
-        "label": "ALLERGY_TYPE",
-        "keywords": ["gluten", "dairy", "seafood", "egg", "soy", "nut"]
-    }
-]
+os.system('cls')
 
-def annotate_sentence(sentence, labels_with_keywords):
-    entities = []
-
-    for label_data in labels_with_keywords:
-        label = label_data["label"]
-        keywords = label_data["keywords"]
-        
-        for keyword in keywords:
-            match = re.search(r'\b' + re.escape(keyword) + r'\b', sentence)
-            if match:
-                start_idx = match.start()
-                end_idx = match.end()
-                entities.append((start_idx, end_idx, label))
-    
-    return {"entities": entities}
-
+keywords_to_annotated = [keyword for entity in entities for keyword in entity["keywords"]]
 data = []
 
 # Load JSON data from a file
@@ -62,7 +23,7 @@ with open("./datasets/datasets.json", "w") as f:
 
 # Create training data in spaCy NER format
 for sentence in datasets:
-    annotations = annotate_sentence(sentence, labels_with_keywords)
+    annotations = annotate_sentence(sentence, keywords_to_annotated)
     if annotations["entities"]:
         data.append((sentence, annotations))
 
@@ -71,8 +32,6 @@ with open("./datasets/all.json", "w") as f:
 
 with open("./datasets/all.json", "r") as f:
     data = json.load(f)
-
-os.system('cls')
 
 if len(data) > 0:
     # First split: training + validation vs. test
@@ -92,5 +51,7 @@ if len(data) > 0:
     print("Validation set size:", len(val_data))
     print("Test set size:", len(test_data))
     print("Total:", len(train_data) + len(val_data) + len(test_data))
+    if len(keywords_to_annotated) > 0:
+        print('All un-annotated keywords: ' + ', '.join(keywords_to_annotated))
 else:
     print('No data found')

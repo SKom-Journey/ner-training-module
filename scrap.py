@@ -4,15 +4,25 @@ from utils.get_menu_data import get_menu_data
 from utils.write_scrap_data_to_json import write_scrap_data_to_json
 import os
 
-NUMBER_OF_MENUS_TO_SCRAPE = 50
+NUMBER_OF_MENUS_TO_SCRAPE = 260
 STARTING_URL = "https://www.bbcgoodfood.com/recipes/gluten-free-lemon-drizzle-cake"
 scrapped_menus = []  # List to store scrapped menu data
 scrapped_menu_urls = []  # List to track already scrapped URLs
 other_menu_urls = [
-    "https://www.bbcgoodfood.com/recipes/easy-pork-chive-dumplings",
-    "https://www.bbcgoodfood.com/recipes/air-fryer-cheese-ham-toastie",
-    "https://www.bbcgoodfood.com/recipes/carrot-coriander-soup",
-    "https://www.bbcgoodfood.com/recipes/satay-sweet-potato-curry"
+    "https://www.bbcgoodfood.com/recipes/spicy-cauliflower-halloumi-rice",
+    "https://www.bbcgoodfood.com/recipes/savoury-picnic-muffins",
+    "https://www.bbcgoodfood.com/recipes/bicerin-coffee-chocolate-drink",
+    "https://www.bbcgoodfood.com/recipes/savoury-pancake",
+    "https://www.bbcgoodfood.com/recipes/satay-sweet-potato-curry",
+    "https://www.bbcgoodfood.com/recipes/snack-stadium",
+    "https://www.bbcgoodfood.com/recipes/halloween-treats-drinks",
+    "https://www.bbcgoodfood.com/recipes/bitter-orange-poppy-seed-cake",
+    "https://www.bbcgoodfood.com/recipes/spinach-muffins",
+    "https://www.bbcgoodfood.com/recipes/dalgona-coffee",
+    "https://www.bbcgoodfood.com/recipes/ginger-shots",
+    "https://www.bbcgoodfood.com/recipes/deep-dish-meatball-marinara-pizza",
+    "https://www.bbcgoodfood.com/recipes/family-meals-easy-fish-pie-recipe",
+    "https://www.bbcgoodfood.com/recipes/spicy-chilli-bean-soup",
 ]  # List to track discovered related links
 
 with sync_playwright() as p:
