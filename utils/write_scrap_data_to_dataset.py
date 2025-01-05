@@ -3,8 +3,8 @@ import json
 import os
 from typing import List
 
-def write_scrap_data_to_dataset(data: List[MenuData]):
-    file_path = os.path.join(os.getcwd(), 'datasets/datasets.json')
+def write_scrap_data_to_dataset(data, prefix = ''):
+    file_path = os.path.join(os.getcwd(), 'datasets/' + prefix + 'datasets.json')
     try:
         # Convert list of MenuData objects to JSON
         datasets = []

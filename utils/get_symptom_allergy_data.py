@@ -7,16 +7,18 @@ def get_symptom_allergy_data(page: Page, source: str) -> SymptomAllergyData:
     page.goto(source)
 
     # Wait till all the data showed
-    page.wait_for_timeout(1000)
+    page.wait_for_timeout(1500)
 
     # Extract data using previously defined functions
     title = get_symptom_title(page)
     paragraphs = get_symptom_paragraphs(page)
     headings = get_symptom_headings(page)
+    bullets = get_symptom_bullets(page)
 
     # Return an instance of SymptomAllergyData
     return SymptomAllergyData(
         source=source,
+        bullets=bullets,
         title=title,
         headings=headings,
         paragraphs=paragraphs,

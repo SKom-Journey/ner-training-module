@@ -7,8 +7,11 @@ import matplotlib.pyplot as plt
 nlp = spacy.load("out/restaurant_ner_recommendation")
 
 # Load and format test data from JSON
-with open("./datasets/test_data.json", "r") as f:
+with open("./datasets/symptoms_test_data.json", "r") as f:
     test_data = json.load(f)
+
+with open("./datasets/menus_test_data.json", "r") as f:
+    test_data.extend(json.load(f)) 
 
 # Prepare data for evaluation
 examples = []

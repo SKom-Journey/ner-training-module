@@ -15,3 +15,7 @@ def get_symptom_paragraphs(page: Page) -> str:
 def get_symptom_headings(page: Page) -> str:
     elements = page.query_selector_all('.inner-article-container .jumplink-headers')
     return [element.text_content().strip() for element in elements if element]
+
+def get_symptom_bullets(page: Page) -> str:
+    elements = page.query_selector_all('.inner-article-container li')
+    return [element.text_content().strip() for element in elements if element]

@@ -1,13 +1,12 @@
 import re
-from config.entities import *
 
-def annotate_sentence(sentence, keywords_to_annotated):
+def annotate_sentence(entities, sentence, keywords_to_annotated):
     annotated_entities = []
 
     for label_data in entities:
         label = label_data["label"]
         keywords = label_data["keywords"]
-        
+
         for keyword in keywords:
             match = re.search(r'\b' + re.escape(keyword) + r'\b', sentence)
             if match:

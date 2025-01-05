@@ -1,0 +1,2092 @@
+[
+    [
+        "Great mid week dinner!",
+        {
+            "entities": [
+                [
+                    15,
+                    21,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "If you don\u2019t want to cook on a barbecue, a griddle pan will also work well. heat until hot \u2013 but not smoking \u2013 and cook as per the barbecue instructions: on one side for three to four minutes, then flip over, assemble the pizza and grill the uncooked side.",
+        {
+            "entities": [
+                [
+                    87,
+                    90,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bake this quiche for a light lunch or a picnic \u2013 it's tangy with feta cheese and has a touch of spice thanks to the paprika",
+        {
+            "entities": [
+                [
+                    29,
+                    34,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Agree with other comments that this is definitely sweet enough. However, the texture reminds me of bread pudding, as it\u2019s quite dense and stodgy and it looks nothing like the cake in the photo, at probably half the height. It\u2019s still tasty enough",
+        {
+            "entities": [
+                [
+                    50,
+                    55,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat oven to 180C/160C fan/gas 4. Heat the oil in a casserole and brown the lamb on all sides. Scoop the lamb out onto a plate, then add the onion and carrots and cook for 2-3 mins until golden. Add the garlic and cook for 1 min more. Stir in the spices and tomatoes, and season. Tip the lamb back in with the chickpeas and apricots. Pour over the stock, stir and bring to a simmer. Cover the dish and place in the oven for 1 hr.",
+        {
+            "entities": [
+                [
+                    393,
+                    397,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Fill cupcakes with sweet caramel and top with a buttercream that\u2019s been given a savoury edge with brown butter and tahini. They\u2019ll be the star of any party",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    80,
+                    87,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 tsp chopped fresh chilli or 1 tsp chilli powder mild or hot, depending how spicy you like it",
+        {
+            "entities": [
+                [
+                    77,
+                    82,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    58,
+                    61,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can this dish be frozen in portions for later use?",
+        {
+            "entities": [
+                [
+                    9,
+                    13,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can I replace the ground almonds with something else as my son has a nut allergy?",
+        {
+            "entities": [
+                [
+                    69,
+                    72,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "3 eggs plus 5 egg yolks (reserve a little of the egg white for brushing)",
+        {
+            "entities": [
+                [
+                    14,
+                    17,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try the Americano for a satisfying long cocktail, with Campari and sweet vermouth mixed with soda water and an orange wedge as garnish",
+        {
+            "entities": [
+                [
+                    67,
+                    72,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat a frying pan over medium heat until hot, and grease lightly. On a lightly floured surface, use a floured rolling pin to roll out the balls of dough until very thin like a tortilla.",
+        {
+            "entities": [
+                [
+                    41,
+                    44,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I bulked this out to feed 3 adults (2 men) by adding extra carrot and veg and also added in some cooked prawns. I also used cheats ginger and garlic for ease. Didn\u2019t need extra rice or the hot sauce. Enjoyed by all, will be cooking again",
+        {
+            "entities": [
+                [
+                    189,
+                    192,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "\u00bc tsp sweet paprika",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I made these with gluten free flour for my coeliac friend and they taste great, almost like shortbread.",
+        {
+            "entities": [
+                [
+                    18,
+                    24,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try these easy-to-bake cinnamon spiced pumpkin muffins as a mid-morning snack. They're ideal for Halloween and Bonfire Night, too",
+        {
+            "entities": [
+                [
+                    72,
+                    77,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "180g white mini marshmallows (ensure vegetarian, if needed)",
+        {
+            "entities": [
+                [
+                    37,
+                    47,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Butter a 20cm square brownie tin and line with baking parchment. Heat the oven to 180C/160C fan/gas 4. Whisk the melted butter and sugar with the vanilla extract in a bowl. Once combined, whisk in the food colouring and eggs until the mixture is a vibrant red.",
+        {
+            "entities": [
+                [
+                    201,
+                    205,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Our easy whipped coffee recipe is simple enough to make at home. This frothy drink, known as dalgona coffee, might just be your new favourite caffeine kick",
+        {
+            "entities": [
+                [
+                    77,
+                    82,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Terrible! Should have cake and icing ingredients separate. 7 yr old daughter put all sugar in the cake. Expensive mistake that can be avoided, please edit this bbc good food. We are not the only one who\u2019s made this mistake. Daughter was in tears, was meant to be a nice Good Friday baking morning,\u2026 More",
+        {
+            "entities": [
+                [
+                    169,
+                    173,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try this Asian-inspired salmon supper with a nutty sesame dressing, crisp veg and comforting sweet potato mash. It's healthy, low-calorie and rich in omega-3",
+        {
+            "entities": [
+                [
+                    93,
+                    98,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Transfer the pancakes to a wire rack while you cook the rest. Serve warm with extra maple syrup and yogurt and berries, if you like.",
+        {
+            "entities": [
+                [
+                    68,
+                    72,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Love this recipe. I can cook dinner for the next while cooking today\u2019s dinner, time saving and extra tasty",
+        {
+            "entities": [
+                [
+                    29,
+                    35,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Use oiled hands to remove the dough from the hook and bowl. Oil another bowl and place the dough in it. Turn it around so that it\u2019s lightly coated in the oil. Cover tightly with cling film and then a tea towel. Place in a draught-free area that\u2019s warm and leave until the dough has doubled in size. If it\u2019s a hot day, it should only take 2 to 3 hrs to rise, but it could take 4 hrs if it\u2019s cold. (If you don\u2019t plan to use the dough for a day or two, place it in the fridge straight away; take it out 3-4 hrs before using. Punch it down first and bring it together on a floured surface.)",
+        {
+            "entities": [
+                [
+                    390,
+                    394,
+                    "TEMPERATURE"
+                ],
+                [
+                    247,
+                    251,
+                    "TEMPERATURE"
+                ],
+                [
+                    309,
+                    312,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try this spin on a fish pie and top with gnocchi instead of regular mashed potato. It takes just 30 minutes to make so is perfect for a balanced family meal",
+        {
+            "entities": [
+                [
+                    152,
+                    156,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "I have been meaning to try this recipe for a while and read the comments as I planned my ingredients. As suggested I added a stock cube, tin of chickpeas, 1 teaspoon paprika and teaspoon cumin and left it on low for 8 hours. It was delicious maybe a little too spicy but definitely a kick to it! I\u2026 More",
+        {
+            "entities": [
+                [
+                    261,
+                    266,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 egg yolks",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Treat friends and family to a Victoria sponge cake made with vegan ingredients. This easy recipe is perfect for afternoon tea or a coffee morning",
+        {
+            "entities": [
+                [
+                    61,
+                    66,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sift in the cocoa powder and flour, and add the vinegar. Fold together using a spatula. For the cheesecake swirl, mix the soft cheese, egg yolk and sugar together, and set aside.",
+        {
+            "entities": [
+                [
+                    135,
+                    138,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "First, make the mashed potato. Bring a large pan of salted water to the boil over a medium heat, then carefully tip in the chopped potatoes. Cook for 15-20 mins until tender. Drain, then tip back into the pan and leave to air-dry for a couple of minutes before mashing. Tip in the butter and milk, and stir through until combined. Set aside with the lid on to keep warm.",
+        {
+            "entities": [
+                [
+                    365,
+                    369,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oil in a large pan and cook the onion for 8-10 mins until softened and starting to take on a little colour. Add the carrots, garlic, peppers and sweet potato. Cook for a further 10 mins, stirring often and taking care not to burn the garlic. Add the tomatoes, stock, herbs and 1 litre of water. Bring to a simmer. Cover and cook for 20 mins until the sweet potato is soft.",
+        {
+            "entities": [
+                [
+                    154,
+                    159,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "How to make this keto? and how many carbs remaining without the sweet potato mash?",
+        {
+            "entities": [
+                [
+                    64,
+                    69,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Using a stand mixer or an electric hand whisk, beat together the butter and sugar until light and fluffy, then beat in the egg, vanilla, buttermilk, oil and vinegar until combined. Gradually mix the wet ingredients into the dried. Once combined, mix in the red food colouring until you have a deep red mix \u2013 the colour may vary depending on what brand you use.",
+        {
+            "entities": [
+                [
+                    261,
+                    265,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    123,
+                    126,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 medium egg yolk",
+        {
+            "entities": [
+                [
+                    9,
+                    12,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "25ml vegan milk (we used almond milk)",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mix the cocoa powder, vanilla extract and red food colouring gel together in a small bowl or jug with 2-3 tbsp hot water until you have a smooth, lump-free paste. Tip this into the bowl with the cake batter and whisk briefly to combine.",
+        {
+            "entities": [
+                [
+                    46,
+                    50,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    111,
+                    114,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Save the liquid from a can of chickpeas to make a creamy hummus. We\u2019ve served it with vegetable crudit\u00e9s for a healthy snack that contributes to your 5-a-day",
+        {
+            "entities": [
+                [
+                    119,
+                    124,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "150g dairy-free spread plus extra for the tins",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Made this recipe several times, always a great success. One family member has an egg allergy so I use yoghurt to bind the meatball mix instead of egg - works just fine.",
+        {
+            "entities": [
+                [
+                    81,
+                    84,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Two small sweet potatoes each, peel, add green beans less ginger more sesame oil, 12 minutes for thick salmon, 10 for thin. All done in 15 minutes.",
+        {
+            "entities": [
+                [
+                    10,
+                    15,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mix the reserved caster sugar with the lemon juice. When the muffins are done, remove from the oven, then brush with the sugar and lemon mixture while they are still hot. Gently loosen the edges of each muffin with a knife, then leave in the tin for 15 mins to cool a little as they\u2019re very delicate while hot. Remove to a wire rack. Best eaten the day of making, but will keep for up to 2 days.",
+        {
+            "entities": [
+                [
+                    166,
+                    169,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Enjoy a refreshing iced coffee at home with our easy recipes, from intense cold brew, to smooth iced lattes and trendy drinks like dalgona coffee.",
+        {
+            "entities": [
+                [
+                    75,
+                    79,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Fold the dry ingredients into the egg mixture using a large metal spoon. Pour into the prepared tin, then tip the tin from side to side until it is covered in an even layer of batter and the corners are filled. Bake on the middle shelf of the oven for 12-15 mins or until firm to the touch. Meanwhile, lay a sheet of baking parchment on the work surface and sprinkle with caster sugar.",
+        {
+            "entities": [
+                [
+                    34,
+                    37,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "\u00bd smoked sweet paprika",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Transfer to a cooling rack for 5-10 mins before serving warm. Will keep chilled in an airtight container for two-three days.",
+        {
+            "entities": [
+                [
+                    56,
+                    60,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Stir in the sweet potato and green pepper, cover and cook for 20 mins more or until tender. Allow to cool a little, then serve topped with the yogurt and parsley (if the soup is too hot, it will kill the beneficial bacteria in the yogurt).",
+        {
+            "entities": [
+                [
+                    12,
+                    17,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    182,
+                    185,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "For the pastry, tip the flour and mustard powder into a bowl, then rub in the butter and lard (if using) with a large pinch of salt until the mixture resembles breadcrumbs. Pour in half the egg and 75ml ice-cold water. Use your hands to work the mixture into a rough dough, then knead for a minute or so to bring it together. Cover and chill until needed. Will keep chilled for up to a day.",
+        {
+            "entities": [
+                [
+                    207,
+                    211,
+                    "TEMPERATURE"
+                ],
+                [
+                    190,
+                    193,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Don\u2019t try this. Goes hard as soon as you put the egg whites in no matter how hard you mix, complete waste of 6 eggs and 2 bars of chocolate",
+        {
+            "entities": [
+                [
+                    49,
+                    52,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can you freeze this and re heat? I added seafood which I defrosted",
+        {
+            "entities": [
+                [
+                    41,
+                    48,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Place the dough in a large, well oiled bowl and cover with an oiled sheet of cling film. Leave in a warm place to rise for 3 hrs. You may not see much movement after this time, but don\u2019t be disheartened, sourdough takes much longer to rise than a conventional yeasted bread.",
+        {
+            "entities": [
+                [
+                    100,
+                    104,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 medium sweet potato peeled and diced",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 small egg yolk beaten",
+        {
+            "entities": [
+                [
+                    8,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Ditch the shop-bought pasta sauce and combine tomatoes, onion and garlic to make a homemade version. Serve tossed through pasta for an easy and healthy meal",
+        {
+            "entities": [
+                [
+                    152,
+                    156,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bake in the oven for 45 mins, then cover with foil and bake for a further 30 mins or until golden brown and a skewer comes out clean when inserted in the middle. Serve warm as a pudding with soya custard, if you like. Or allow to cool completely, then sprinkle with icing sugar and enjoy as a cake. Eat the same day.",
+        {
+            "entities": [
+                [
+                    168,
+                    172,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat oven to 180C/160C fan/gas 4. Make the first batch of sponges by greasing and lining two 20cm round tins. Gently melt 125g butter and 100g chocolate together in a saucepan. Mix 250g flour, 250g sugar, 1 tbsp cocoa, \u00bd tsp bicarb and \u00bc tsp salt in a large mixing bowl. Whizz one egg with 100g yogurt and 200g beetroot in a food processor or blender until fairly smooth. Put the kettle on.",
+        {
+            "entities": [
+                [
+                    325,
+                    329,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    281,
+                    284,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mix the flour, salt, xanthan gum, baking powder and sugar together in a bowl. Rub in the butter with your fingertips until you have fine breadcrumbs. You can also do this by gradually pulsing the mixture in a food processor until it resembles breadcrumbs.",
+        {
+            "entities": [
+                [
+                    209,
+                    213,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "I would like to use a dairy free alternative to the \u2018whole milk\u2019 - can you offer options?",
+        {
+            "entities": [
+                [
+                    22,
+                    27,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Is this recipe in a good food book if so which one thanks",
+        {
+            "entities": [
+                [
+                    25,
+                    29,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 egg yolk (freeze the white to use in another recipe)",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Yes. I use oat milk and add a few drops of lemon juice and leave for 10 mins. I've tried it with almond milk too. I've made the muffins completely dairy free and they are great, really moist and freeze well.",
+        {
+            "entities": [
+                [
+                    147,
+                    152,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "250g gluten-free self-raising flour",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Then fold in the remaining egg whites carefully using a spatula or large metal spoon. Spoon into 4 glasses or ramekins and set in the fridge for 2-3 hours. Serve each with a dollop of cr\u00e8me fraiche and shavings of dark chocolate.",
+        {
+            "entities": [
+                [
+                    27,
+                    30,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Learn how to make scrambled eggs in a pan with this easy, foolproof recipe. This speedy breakfast is packed with protein and takes just 10 minutes.",
+        {
+            "entities": [
+                [
+                    88,
+                    97,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip the beetroot mix into the dry ingredients along with the melted chocolate mixture and 150ml boiling water, then stir to combine. Stir in half the food colouring, if using, and divide the mixture between the tins. Bake for 25 mins until a skewer poked into the centre comes out clean. Leave the cakes on a wire rack to cool completely.",
+        {
+            "entities": [
+                [
+                    150,
+                    154,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Combine the cinnamon, mixed spice, powdered egg replacer, xanthan gum (if using), baking powder, flour and \u00bc tsp salt. Add the wet ingredients to the dry. Whisk to make a smooth batter, then stir in the courgette.",
+        {
+            "entities": [
+                [
+                    44,
+                    47,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I\u2019d just use extra flour. Our school is nut free so ground almonds won\u2019t work for us either.",
+        {
+            "entities": [
+                [
+                    40,
+                    43,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pour into the baking dish, then add the sausages. Scatter over the remaining sage and some extra grated parmesan. Roast for 25-30 mins, until golden and bubbling. Allow to settle for 10 mins before serving.",
+        {
+            "entities": [
+                [
+                    21,
+                    25,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 tsp baking powder (look for a gluten-free one)",
+        {
+            "entities": [
+                [
+                    32,
+                    38,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Full of flavour. My little girl loved this. Great meal for all the family.",
+        {
+            "entities": [
+                [
+                    50,
+                    54,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Great recipe and technique, needs a bit of practice but but then they come out perfectly every time. Discovered that you need to make sure the pan is quite hot to begin with and not use too much batter (really depends on pan sized thickness you're aiming for).",
+        {
+            "entities": [
+                [
+                    156,
+                    159,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "8-12 x 19g coloured icing pens or fondant icing sugar mixed with a little water and food colouring",
+        {
+            "entities": [
+                [
+                    84,
+                    88,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "These rich, fudgy chocolate brownies are gluten-free. Serve with a scoop of vanilla ice cream for dessert, or enjoy as an afternoon treat with a cup of tea",
+        {
+            "entities": [
+                [
+                    132,
+                    137,
+                    "MEAL_TYPE"
+                ],
+                [
+                    41,
+                    47,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "200g gluten-free plain flour",
+        {
+            "entities": [
+                [
+                    5,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Use special flour to make these quick and easy cr\u00eapes and safely cater for those on a gluten-free diet. Perfect for both sweet and savoury toppings",
+        {
+            "entities": [
+                [
+                    121,
+                    126,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    131,
+                    138,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    86,
+                    92,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "A vibrant, low-calorie and vegan dinner idea, made with sweet potatoes, red split lentils, coconut milk and plenty of spices. Enjoy with a naan or pilau rice",
+        {
+            "entities": [
+                [
+                    56,
+                    61,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    27,
+                    32,
+                    "DIET_TYPE"
+                ],
+                [
+                    33,
+                    39,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Using pre-prepared mixed seafood makes this healthy rice dish very easy to put together. Plus, using one-pot means you save on washing up",
+        {
+            "entities": [
+                [
+                    57,
+                    61,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    25,
+                    32,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you chop the ginger and garlic into the soy?",
+        {
+            "entities": [
+                [
+                    43,
+                    46,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I\u2019d rate it zero if I could! It broke my blender it was that dry! That\u2019s seriously not enough liquid! Thirteen years that blender has been going strong!  I\u2019ve added more milk to the recipe and some honey and I\u2019ve put it in a larger dish and doing baked oats essentially, wish me luck!",
+        {
+            "entities": [
+                [
+                    232,
+                    236,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "To make the filling, put the soft cheese in a bowl or the bowl of a stand mixer, and beat with an electric whisk or the mixer until loosened. Add the pumpkin pur\u00e9e, sugar and flour and beat again until combined. With the motor running, gradually add the eggs and egg yolk until the mixture is smooth and creamy. Pour the filling over the baked biscuit base, then sit the cake tin on the tea towel in the roasting tin. Pour a kettleful of just-boiled water into the roasting tin so the water comes halfway up the side of the cake tin.",
+        {
+            "entities": [
+                [
+                    263,
+                    266,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Whisk the egg whites to soft peaks, scatter in the sugar and whisk again until the mixture forms stiff peaks when you lift the whisk out (around 30 seconds).",
+        {
+            "entities": [
+                [
+                    10,
+                    13,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "It is a good dish, but the recipe is poorly written...",
+        {
+            "entities": [
+                [
+                    13,
+                    17,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "3 tbsp soy sauce",
+        {
+            "entities": [
+                [
+                    7,
+                    10,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Pack lentils into a carrot soup for a filling, hearty lunch. As well as being rich in protein and fibre, lentils are a good source of B vitamins and iron",
+        {
+            "entities": [
+                [
+                    54,
+                    59,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "100g dairy-free spread",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 tbsp cold butter diced",
+        {
+            "entities": [
+                [
+                    7,
+                    11,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Kick-start your day with satisfying vegan savoury pancakes, topped with a herby spread, tomatoes and mushrooms",
+        {
+            "entities": [
+                [
+                    42,
+                    49,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    36,
+                    41,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try making this stew with succulent chunks of aubergine instead of the chicken. Cut 2 medium aubergines into 3cm chunks. Fry for 7 mins instead of 5 in step 1. Simmer the sauce for 5 mins to reduce the liquid slightly before putting the lid on and continue as per the original recipe. Swap out the parmesan for a vegetarian Italian-style cheese or strong cheddar.",
+        {
+            "entities": [
+                [
+                    313,
+                    323,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Get a triple hit of coconut in these light and fluffy cupcakes, topped with whipped coconut cream and snowy desiccated coconut - a lovely gluten-free teatime treat",
+        {
+            "entities": [
+                [
+                    158,
+                    163,
+                    "MEAL_TYPE"
+                ],
+                [
+                    138,
+                    144,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oil in a large, deep frying pan over a medium-high heat and, once hot, stir-fry the chicken and cabbage for 5-7 mins until browned and almost cooked through. Add the ginger and chilli, and cook for a few minutes more until fragrant.",
+        {
+            "entities": [
+                [
+                    75,
+                    78,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Absolutely loved the meatballs, really delicious. I put 3 dessert spoons of sugar in and the sauce was still way too sweet for us, so next time I'll just put a teaspoon or 2 of in.",
+        {
+            "entities": [
+                [
+                    117,
+                    122,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "eating this was like eating a savoury pancake\nlove it",
+        {
+            "entities": [
+                [
+                    30,
+                    37,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oil in a large pan over a medium heat and cook three-quarters of the onion with a pinch of salt for 10 minutes, stirring regularly, until softened. Add the garlic, ginger and curry leaves, if using, and cook for 2 minutes. Add in the spices and cook for 1 minute. Stir in the sweet potato and lentils, then add the coconut milk and stock. Stir well, bring to the boil, then simmer for 15-20 minutes, adding a splash of water if it\u2019s getting dry, until the potatoes and lentils are cooked through. Season.",
+        {
+            "entities": [
+                [
+                    285,
+                    290,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Hi, thanks for your question. To reheat, place on a baking tray, cover loosely with foil and bake for about 30-40 mins at 200C/fan 180C/gas 6 or until heated all the way through (check in the very middle that it's piping hot). Remove the foil for the last 10 mins to help it brown. Best wishes, BBC\u2026 More",
+        {
+            "entities": [
+                [
+                    221,
+                    224,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Sift a quarter of the flour mix into the butter and egg mixture, then use a spatula to fold together until just combined. Fold through a third of the milky coffee. Repeat until all the components are used and no streaks of flour remain. Fold in the dates.",
+        {
+            "entities": [
+                [
+                    52,
+                    55,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I also made these in a roasting tin and they came out amazingly! I didn't use the xhanthan gum and cooked them a bit longer than the recommended timing. They came out so beautifully chewy and moist, I didn't think they needed the icing. I made them for work and no one would believe they were gluten\u2026 More",
+        {
+            "entities": [
+                [
+                    293,
+                    299,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I jotted them down earlier in the week, they've disappeared for me too now.\n150g butter, 50g Cast Sug, 100g Light Br Soft Sug, 1tsp Vanilla Extract, 1 Large  egg, 250g Plain Flour, 1/4 tsp baking Powder, 100g milk or dark choc chips,\nTo decorate - 60g dark choc, 60g Royal Icing sugar mixed with 2tsp\u2026 More",
+        {
+            "entities": [
+                [
+                    158,
+                    161,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Was apprehensive about having potato in a cake\u2026 but went off of the reviews and did not disappoint! Made it for my better half\u2019s mum as she\u2019s gluten free. Went down very well with the family. Would recommend to anyone. But add one more lemon zest to the mixture.",
+        {
+            "entities": [
+                [
+                    142,
+                    148,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "First make your starter. In a large jar (a 1litre kilner jar is good) or plastic container, mix 100g of the flour with 125ml slightly warm water. Whisk the batter until smooth and lump free, whisking will help incorporate some airborne yeast particles to get your starter going. Leave the jar or container lid ajar for an hour or so in a warm place (around 25C is ideal), then seal and set aside for 24 hrs.",
+        {
+            "entities": [
+                [
+                    134,
+                    138,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "The cake turned out perfectly. The cake itself is quite light and moist and not very sweet so with the icing its the perfect pairing!",
+        {
+            "entities": [
+                [
+                    85,
+                    90,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Tip the beef into the wok and toss through the sauce. Continue cooking for another minute until piping hot, then serve scattered with the spring onion greens and a little extra sauce on the side.",
+        {
+            "entities": [
+                [
+                    103,
+                    106,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "When the pan starts smoking, put a chapati on it. Cook until the underside has brown spots, about 30 seconds, then flip and cook on the other side. Put on a plate and keep warm while you cook the rest of the chapatis.",
+        {
+            "entities": [
+                [
+                    172,
+                    176,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Really great family dish. The kids loved it. The beans tasted delicious and easy to make for gluten free and veggie guests.",
+        {
+            "entities": [
+                [
+                    20,
+                    24,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    93,
+                    99,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "80g butter; 275g biscuits; 1 large egg white FOR THE FILLING 800g full fat cream cheese; 425g can pumpkin puree; 200g light soft brown sugar; 50g plain flour; 5 large eggs plus 1 large yolk TO SERVE 400ml whipping cream; cinnamon or pumpkin spice to dust; 25g chopped pecans; 3 tbsp caramel\u2026 More",
+        {
+            "entities": [
+                [
+                    35,
+                    38,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Looking for a sweet gluten-free (and nut-free) snack? These moreish bakes are a treat for the biscuit tin",
+        {
+            "entities": [
+                [
+                    14,
+                    19,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    47,
+                    52,
+                    "MEAL_TYPE"
+                ],
+                [
+                    80,
+                    85,
+                    "MEAL_TYPE"
+                ],
+                [
+                    20,
+                    26,
+                    "ALLERGY_TYPE"
+                ],
+                [
+                    37,
+                    40,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "A quick, gluten-free bread recipe - no need for yeast, ready in under an hour",
+        {
+            "entities": [
+                [
+                    9,
+                    15,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Fill the paper cases and bake for 20-25 mins until risen and golden brown. Transfer to a rack to cool \u2013 or eat slightly warm. Will keep in an airtight container for three days.",
+        {
+            "entities": [
+                [
+                    120,
+                    124,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Awful\u2026looked more like fairy cakes. Really stodgy and doughy, didn\u2019t rise at all, and texture was a bit gritty :( shame as I loved the bbc good food regular yorkshires before having to go GF",
+        {
+            "entities": [
+                [
+                    144,
+                    148,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "We like my tortillas slightly crisp and blistered. You can heat them in a dry frying pan until\u00a0they puff up, or\u00a0do it the lazy way: fold each tortilla into quarters, then pop into the toaster, pointy-end down. Toast for a little less time than normal bread.",
+        {
+            "entities": [
+                [
+                    244,
+                    250,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "few drops yellow food colouring",
+        {
+            "entities": [
+                [
+                    17,
+                    21,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Serve as they are (they\u2019re great for packing into lunchboxes and you can freeze them for later) or serve witha drizzle of nut butter, a spoonful of yogurt, or a drizzle of maple syrup.",
+        {
+            "entities": [
+                [
+                    122,
+                    125,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Swap beef mince and breadcrumbs with lean turkey and oats. Serve in a tomato sauce with pasta or potatoes for a light dinner",
+        {
+            "entities": [
+                [
+                    118,
+                    124,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Good as a side dish but expected more flavour, unfortunately it was a little bland. Plenty of sweetness from the pineapple but just no depth of flavour, it needs more umami!!",
+        {
+            "entities": [
+                [
+                    15,
+                    19,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mix the remaining maple syrup and the icing sugar together with a pinch of salt until smooth. Brush the icing over each muffin while they are still warm. Dot a few blueberries on top of each one. Best eaten within a day or two.",
+        {
+            "entities": [
+                [
+                    148,
+                    152,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "This is a beautiful lunch or light dinner. Flavours really complement each other.",
+        {
+            "entities": [
+                [
+                    20,
+                    25,
+                    "MEAL_TYPE"
+                ],
+                [
+                    35,
+                    41,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "For the praline, line a baking tray with baking parchment, then tip the sugar into a saucepan with 1 tbsp water. Bring to the boil, then reduce the heat and simmer for 1-2 mins until the sugar starts to caramelise. Scatter in the pecans and a pinch of sea salt, and stir until the nuts are fully coated. Carefully scrape the hot pecan mix onto the tray and leave to set for at least 10 mins. Break about 12 whole pecans out of the praline and reserve for decorating later, then chop or smash the rest of the praline into small shards. Set aside. Will keep in an airtight container for a day.",
+        {
+            "entities": [
+                [
+                    325,
+                    328,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oven to 190C/170C fan/gas 5. Put the apple, spice and caster sugar in a saucepan with 2 tbsp water. Cover and cook gently for 5 mins until the apples have started to soften, then transfer to an ovenproof dish.",
+        {
+            "entities": [
+                [
+                    213,
+                    217,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 egg yolk",
+        {
+            "entities": [
+                [
+                    2,
+                    5,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the grill to high. Roll the remaining 120g marzipan into 12 balls (about 10g each) using your hands. Put the marzipan balls on a baking tray, then slide under the hot grill for 30 seconds-1 min until just golden on top.",
+        {
+            "entities": [
+                [
+                    168,
+                    171,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Melt the butter in a wok or large frying pan and saut\u00e9 the spring onions for 1 minute. Fluff up the rice mixture with a fork (there should be no cooking liquid left). Tip into the wok with the soy sauce and a little salt and freshly ground black pepper, then stir fry for 2 minutes.",
+        {
+            "entities": [
+                [
+                    193,
+                    196,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Add the remaining oil to the pan, and cook the onion and celery slowly for 15 mins until very soft and beginning to caramelise. Add the finely chopped garlic, the fennel seeds, tomato pur\u00e9e and paprika, and cook for 5 mins more. Meanwhile, bring the stock to a simmer. Add the rice to the pan with the onion mixture, give everything a good stir, then add the sherry and 1 litre of the hot stock. Bring to the boil and simmer gently for 15 mins, shaking the pan from time to time.",
+        {
+            "entities": [
+                [
+                    385,
+                    388,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "So many comments stating 'bland'. Why do you not taste the dish before you serve it ? If you find it bland there are plenty of ingredients you can add prior to serving to add heat or flavour, for example piri piri sauce, chipotle paste, harissa paste,peppercorns. No dish has to be bland if you have\u2026 More",
+        {
+            "entities": [
+                [
+                    59,
+                    63,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Toss the chicken pieces in the flour mix, then the egg, and finally the breadcrumbs. Set aside on a tray. Heat the air-fryer to 200C, then cook the chicken nuggets in a single layer (you may need to do this in batches) for 10-12 mins until cooked through and golden brown. Serve with ketchup, if you like.",
+        {
+            "entities": [
+                [
+                    51,
+                    54,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Children: Weigh the flour, baking powder, cinnamon and sultanas into a bowl and mix with a wooden spoon. Then weigh the butter, vanilla essence, egg, milk and mashed bananas and put into another bowl or jug and mix with a small balloon whisk or fork. Pour the \u2018wet\u2019 banana mixture into the \u2018dry\u2019 flour mixture and combine thoroughly with a wooden spoon. Weighing needs to be very accurate when baking so help older children to measure carefully. Younger children can also get involved by spooning or pouring into the scales with adult supervision. Younger children can also beat the egg with a fork and mash the banana with a potato masher.",
+        {
+            "entities": [
+                [
+                    145,
+                    148,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "5* Swapped walnuts for pecans because I didn't have any walnuts. Just as good. Could not tell this was gluten-free. Did not feel the need to add the icing, these should be called brownies. Will probably cut down the sugar next time, as it does not need that much!",
+        {
+            "entities": [
+                [
+                    103,
+                    109,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "35ml sweet red vermouth (we used Antica Formula)",
+        {
+            "entities": [
+                [
+                    5,
+                    10,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "To sterilise your jars, wash well in hot,\nsoapy water, then leave to dry in a low\noven. Alternatively, run them through\na dishwasher cycle. Fill the jars while\nthey\u2019re still warm.",
+        {
+            "entities": [
+                [
+                    174,
+                    178,
+                    "TEMPERATURE"
+                ],
+                [
+                    37,
+                    40,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oven to 180C/160C fan/gas 4. Prick the sweet potatoes with a fork and cook for 50 mins-1 hr or until the flesh is soft (or in the microwave on high for 5-7 mins). Remove the skin and mash the flesh with 2 tbsp of the oil, the cumin and paprika. Set aside and keep warm.",
+        {
+            "entities": [
+                [
+                    48,
+                    53,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    273,
+                    277,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "2 large  sweet potatoes (about 500g/1lb 4oz each)",
+        {
+            "entities": [
+                [
+                    9,
+                    14,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Great recipe, next time I\u2019ll double the seasonings however as there wasn\u2019t a great deal of flavour, however I did use vegetarian chicken, that might be why",
+        {
+            "entities": [
+                [
+                    118,
+                    128,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mix the ginger, garlic, soy and vinegar, and set aside. Heat a large pan or wok and add 1 tbsp oil, the vegetables and salmon. Fry the salmon for 2 mins each side until it begins to turn opaque. Tip in the rice and stir, flaking the fish into large pieces, then move everything to the side of the pan.",
+        {
+            "entities": [
+                [
+                    24,
+                    27,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Combine the flour, garlic powder, paprika, \u00bd-1 tsp salt and a few cracks of freshly ground black pepper on a plate. Tip the beaten egg onto another plate and the breadcrumbs onto a third.",
+        {
+            "entities": [
+                [
+                    131,
+                    134,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Unlock the flavours of cauliflower with a red pepper, olive and caper salsa, topped with almonds. Healthy and vegan, it makes a tasty light lunch or supper",
+        {
+            "entities": [
+                [
+                    110,
+                    115,
+                    "DIET_TYPE"
+                ],
+                [
+                    140,
+                    145,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Do you make videos too for these food, drinks, dessert recipes etc?",
+        {
+            "entities": [
+                [
+                    33,
+                    37,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Hello, gluten free flour tends to react differently in baking. So generally the quantities of the other ingredients will change and in some circumstances Xanthem gum will be added. We recommend trying one of our specifically gluten free bakes. Thanks for your question - Good Food Team.",
+        {
+            "entities": [
+                [
+                    7,
+                    13,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "far too sweet.",
+        {
+            "entities": [
+                [
+                    8,
+                    13,
+                    "FLAVOR_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I added a squeeze of lemon and finely sliced garlic. Just gave it a little bit of sharpness and depth. Great meal!",
+        {
+            "entities": [
+                [
+                    109,
+                    113,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Packed with veggies, feta and egg, this vegetarian pastry is part tortilla, part pie. Bursting with summer colours, it'll provide the wow factor at any picnic",
+        {
+            "entities": [
+                [
+                    40,
+                    50,
+                    "DIET_TYPE"
+                ],
+                [
+                    30,
+                    33,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat a 20cm cr\u00eape pan until very hot, then pour a little oil into the pan. Swirl the pan so the oil creates an even covering. Ladle a spoonful of the pancake mixture into the pan and tip the pan so the mixture fills the pan in an even layer. Cook for 30 seconds, then flip and scatter with some cheese and ham, and cook until the cheese is melting. Add a crack of black pepper and fold. Keep on a plate covered with foil in a warm oven while you make the remaining pancakes.",
+        {
+            "entities": [
+                [
+                    426,
+                    430,
+                    "TEMPERATURE"
+                ],
+                [
+                    33,
+                    36,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Put the chicken pieces into a bowl with the sugar, soy sauce, fish sauce, sake and half the ginger. Cover and chill for at least 30 mins, or up to 4 hrs.",
+        {
+            "entities": [
+                [
+                    51,
+                    54,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I found this recipe worked far better than the larger cake version - only problem is/was, these cakes are far easier to grab and snack on, so they're gone much faster!",
+        {
+            "entities": [
+                [
+                    129,
+                    134,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Enjoy this filling vegetarian soup with red lentils, carrots and leeks. It's low in calories and fat, and delivers three of your five-a-day",
+        {
+            "entities": [
+                [
+                    19,
+                    29,
+                    "DIET_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Easy with a food processor. I added another yolk as well to help it bind.",
+        {
+            "entities": [
+                [
+                    12,
+                    16,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Xantham gum is the gluten substitute which give the dough the cohesive stickiness that wheat flour would.  Cornflour wouldn\u2019t work.   But if you\u2019re using a good g/f self raising flour such as Doves Farm, it may work without this addition.  Try it without and see what you think.",
+        {
+            "entities": [
+                [
+                    19,
+                    25,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oil in wok or large frying pan. Add the garlic and chilli, then cook for 10 secs \u2013 making sure not to let it burn. Throw in the cooked rice, stir fry for 1 min, then push to the side of the pan. Pour the eggs into the empty side of the pan, then scramble them, stirring. Once just set, stir the peas and spring onions into the rice and egg, then cook for 2 mins until the peas are tender. Add the prawns and soy sauce, heat through, then serve with extra soy sauce on the side, if you like.",
+        {
+            "entities": [
+                [
+                    345,
+                    348,
+                    "ALLERGY_TYPE"
+                ],
+                [
+                    417,
+                    420,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "I've made this so many times now so feel it deserves a review. The recipe is quick and easy to prepare and comes out perfectly every time. The ingredients make a delicious meal, similar in flavour to a margarita pizza! I recommend ensuring you have fresh basil and use good quality tomatoes which\u2026 More",
+        {
+            "entities": [
+                [
+                    172,
+                    176,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "1 large egg beaten",
+        {
+            "entities": [
+                [
+                    8,
+                    11,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Put the mince into an ovenproof dish, top with the mash and ruffle with a fork. The pie can now be chilled and frozen for up to a month.",
+        {
+            "entities": [
+                [
+                    32,
+                    36,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Make a batch of sourdough pancakes for a tasty breakfast treat. This easy recipe is great for using up a sourdough discard from your starter",
+        {
+            "entities": [
+                [
+                    47,
+                    56,
+                    "MEAL_TYPE"
+                ],
+                [
+                    57,
+                    62,
+                    "MEAL_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "You can whip up this quick and easy spicy rice with leftover sausages, adding peppers and peas for pops of colour of fresh flavour \u2013 it's also gluten-free",
+        {
+            "entities": [
+                [
+                    36,
+                    41,
+                    "FLAVOR_TYPE"
+                ],
+                [
+                    143,
+                    149,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the oven to 200C/180C fan/gas 6. Tip the pasta into the sauce and add half the fish, stir everything together then tip into a large baking dish. Top with the rest of the fish, pushing it into the pasta a little, then scatter with the remaining cheese. Bake for 30 mins until golden, then serve with salad, if you like. Can be chilled and eaten within three days or frozen for up to a month. Defrost in the fridge, then reheat in a microwave or oven until piping hot.",
+        {
+            "entities": [
+                [
+                    144,
+                    148,
+                    "ITEM_CATEGORY"
+                ],
+                [
+                    467,
+                    470,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat the air fryer on 160C for 2 mins. Mix the oil, yogurt, egg and milk in a large bowl, then fold in the sugar, flour and bicarbonate of soda and combine well. Fold in the blueberries, chocolate chips or dried fruit, if using. Spoon the mixture into silicone cases or an air fryer muffin tin filled with paper cases to three-quarters full. You should be able to make 6-8 muffins, but you may have to bake them in batches.",
+        {
+            "entities": [
+                [
+                    60,
+                    63,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Can I use normal Mayo, I\u2019m not vegan but I am dairy free.",
+        {
+            "entities": [
+                [
+                    31,
+                    36,
+                    "DIET_TYPE"
+                ],
+                [
+                    10,
+                    16,
+                    "TEMPERATURE"
+                ],
+                [
+                    46,
+                    51,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Combine all the ingredients in a food processor and blend until smooth-ish",
+        {
+            "entities": [
+                [
+                    33,
+                    37,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "4 tbsp or 2 x 28ml bottles red food colouring optional (we used Scarlett Langdale \u2013 a natural liquid colouring will not work)",
+        {
+            "entities": [
+                [
+                    31,
+                    35,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Mix the butter, honey and egg and stir in the pumpkin or squash. Then mix in the sugar, flour and ginger.",
+        {
+            "entities": [
+                [
+                    26,
+                    29,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "Lovely recipe I added green food colouring  to them and swapped vanillia for Peppermint",
+        {
+            "entities": [
+                [
+                    28,
+                    32,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Hold the pan handle, ease a palette knife under the pancake, then quickly lift and flip it over. Make sure the pancake is lying flat against the base of the pan with no folds, then cook for another 30 secs before turning out onto a warm plate.",
+        {
+            "entities": [
+                [
+                    232,
+                    236,
+                    "TEMPERATURE"
+                ]
+            ]
+        }
+    ],
+    [
+        "green food colouring gel",
+        {
+            "entities": [
+                [
+                    6,
+                    10,
+                    "ITEM_CATEGORY"
+                ]
+            ]
+        }
+    ],
+    [
+        "Better than average, hence the 3 stars. I just felt it was missing something. I didn't use salt or pepper because it didn't say to (I'm pedantic with recipes). May have been better without the prawns. Not sure if the soy sauce did much for it either. I used dried chillies because I couldn't get hold\u2026 More",
+        {
+            "entities": [
+                [
+                    217,
+                    220,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ],
+    [
+        "just made these after following a recipe a couple of years ago that was a complete and utter disaster. \nfollowed this recipe to the letter.  always a must with gluten free.\nthey were wonderful. million times better than shop bought. I'm a bit of a rank amateur, but the result was lovely. \nI didnt\u2026 More",
+        {
+            "entities": [
+                [
+                    160,
+                    166,
+                    "ALLERGY_TYPE"
+                ]
+            ]
+        }
+    ]
+]

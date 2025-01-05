@@ -4,7 +4,6 @@ import random
 import json
 import os
 
-# Load the base model
 nlp = spacy.load("en_core_web_sm")
 
 # Get the NER pipeline component, or add if not present
@@ -14,10 +13,16 @@ else:
     ner = nlp.get_pipe("ner")
 
 # Load the datasets
-with open("./datasets/train_data.json", "r") as f:
+    
+with open("./datasets/menus_train_data.json", "r") as f:
     train_data = json.load(f)
-with open("./datasets/val_data.json", "r") as f:
+with open("./datasets/menus_val_data.json", "r") as f:
     val_data = json.load(f)
+
+with open("./datasets/symptoms_train_data.json", "r") as f:
+    train_data.extend(json.load(f)) 
+with open("./datasets/symptoms_val_data.json", "r") as f:
+    val_data.extend(json.load(f))
 
 # Add labels to the NER pipeline based on the training data
 for _, annotations in train_data:
