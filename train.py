@@ -1,10 +1,18 @@
 import spacy
-from spacy.training import Example
 import random
 import json
 import os
+from spacy.training import Example
+from spacy.util import minibatch, compounding
+import en_core_web_sm
 
 nlp = spacy.load("en_core_web_sm")
+
+nlp = en_core_web_sm.load()
+
+doc = nlp("This is a sentence.")
+
+# print([(w.text, w.pos_) for w in doc])
 
 # Get the NER pipeline component, or add if not present
 if "ner" not in nlp.pipe_names:
@@ -12,17 +20,22 @@ if "ner" not in nlp.pipe_names:
 else:
     ner = nlp.get_pipe("ner")
 
+# print(spacy.training.offsets_to_biluo_tags(nlp.make_doc("Sandwich ginger biscuits with a creamy, zesty filling to make these gluten-free teatime treats that are aromatic with wintry spices - cloves, nutmeg and cardamom"), [
+#                 [51, 57, "ALLERGY_TYPE"],
+#                 [67, 73, "ITEM_CATEGORY"],
+#                 [93, 98, "FLAVOR_TYPE"]
+#             ]))
+
 # Load the datasets
-    
 with open("./datasets/menus_train_data.json", "r") as f:
     train_data = json.load(f)
 with open("./datasets/menus_val_data.json", "r") as f:
     val_data = json.load(f)
 
-with open("./datasets/symptoms_train_data.json", "r") as f:
-    train_data.extend(json.load(f)) 
-with open("./datasets/symptoms_val_data.json", "r") as f:
-    val_data.extend(json.load(f))
+# with open("./datasets/symptoms_train_data.json", "r") as f:
+#     train_data.extend(json.load(f)) 
+# with open("./datasets/symptoms_val_data.json", "r") as f:
+#     val_data.extend(json.load(f))
 
 # Add labels to the NER pipeline based on the training data
 for _, annotations in train_data:
@@ -30,32 +43,26 @@ for _, annotations in train_data:
         ner.add_label(ent[2])
 
 # Disable other pipelines to only focus on NER
-unaffected_pipes = [pipe for pipe in nlp.pipe_names if pipe != "ner"]
+pipe_exceptions = ["ner", "trf_wordpiecer", "trf_tok2vec"]
+unaffected_pipes = [pipe for pipe in nlp.pipe_names if pipe not in pipe_exceptions]
 
 os.system('cls')
 
 # Training loop with validation after each epoch
 with nlp.disable_pipes(*unaffected_pipes):
-    optimizer = nlp.begin_training()
-    
-    for iteration in range(20):  # Number of epochs
-        print(f"Starting iteration {iteration + 1}")
-        
-        # Shuffle training data
-        random.shuffle(train_data)
-        
-        # Track losses
-        losses = {}
-        for text, annotations in train_data:
-            doc = nlp.make_doc(text)
-            example = Example.from_dict(doc, annotations)
-            nlp.update([example], losses=losses, drop=0.35)
-        print("Losses:", losses)
+    examples = []
+    for text, annots in train_data:
+        examples.append(Example.from_dict(nlp.make_doc(text), annots))
+    nlp.initialize(lambda: examples)
+    for i in range(20):
+        random.shuffle(examples)
+        for batch in minibatch(examples, size=8):
+            nlp.update(batch)
 
         # Evaluate on validation set
         val_examples = [Example.from_dict(nlp.make_doc(text), annotations) for text, annotations in val_data]
         val_scores = nlp.evaluate(val_examples)
-        print(f"Validation scores at iteration {iteration + 1}:", val_scores)
+        print(f"Validation scores at iteration {i + 1}:", val_scores)
 
 # Save the trained model
 nlp.to_disk("out/restaurant_ner_recommendation")

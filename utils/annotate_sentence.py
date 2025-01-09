@@ -1,6 +1,6 @@
 import re
 
-def annotate_sentence(entities, sentence, keywords_to_annotated):
+def annotate_sentence(entities, sentence: str, keywords_to_annotated: list[str]):
     annotated_entities = []
 
     for label_data in entities:

@@ -4,6 +4,7 @@ from sklearn.model_selection import train_test_split
 import os
 from utils.annotate_sentence import *
 from config.entities import *
+from utils.clean_text import clean_text
 
 os.system('cls')
 
@@ -15,7 +16,7 @@ entities_to_annotated = {
     'menus_': entities[0:6],
     'symptoms_': [entities[6]]
 }
-print(entities_to_annotated['menus_'])
+
 def build_datasets(prefix = ''):
     data = []
     keywords_to_annotate = [*keywords_to_annotated[prefix]]
@@ -33,6 +34,7 @@ def build_datasets(prefix = ''):
 
     # Create training data in spaCy NER format
     for sentence in datasets:
+        sentence = clean_text(sentence)
         annotations = annotate_sentence(entities_to_annotated[prefix], sentence, keywords_to_annotate)
         if annotations["entities"]:
             data.append((sentence, annotations))
