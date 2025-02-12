@@ -20,12 +20,6 @@ if "ner" not in nlp.pipe_names:
 else:
     ner = nlp.get_pipe("ner")
 
-# print(spacy.training.offsets_to_biluo_tags(nlp.make_doc("Sandwich ginger biscuits with a creamy, zesty filling to make these gluten-free teatime treats that are aromatic with wintry spices - cloves, nutmeg and cardamom"), [
-#                 [51, 57, "ALLERGY_TYPE"],
-#                 [67, 73, "ITEM_CATEGORY"],
-#                 [93, 98, "FLAVOR_TYPE"]
-#             ]))
-
 # Load the datasets
 with open("./datasets/menus_train_data.json", "r") as f:
     train_data = json.load(f)
