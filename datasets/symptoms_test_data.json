@@ -1,331 +1,111 @@
 [
     [
-        "Experts arent certain what causes a dogs reverse sneeze. Not all dogs experience the phenomenon. It seems to be more common indogs with longer snouts.",
+        "A cough that lasts more than three weeks",
         {
             "entities": [
                 [
-                    49,
-                    55,
+                    2,
+                    7,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "PMSand menstrual cycle. Changes in yourhormone levels can cause nauseating headaches, which usually strike 2 days before, or in the first 3 days of, your period. You might have throbbing pain on one side of your head along with nausea and sensitivity to light.",
+        "You may need to swallow two or three times per bite or sip.",
         {
             "entities": [
                 [
-                    228,
-                    234,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Try not to scratch. It can make a rash worse and lead to an infection.",
-        {
-            "entities": [
-                [
-                    34,
-                    38,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Alcohol irritates your stomach lining. It also slows down your digestion, which can cause your liver, pancreas, and stomach to secrete more fatty substances. This is why you might feel nauseous or sick to your stomach the next day. Too much alcohol can also cause you to have low blood sugar, which can cause symptoms such as sweating, anxiety, and nausea.",
-        {
-            "entities": [
-                [
+                    16,
                     23,
-                    30,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    349,
-                    355,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "In addition, a cough that begins after a person has begun taking beta-blockers is likely to be cough-variant asthma. Beta-blockers are drugs used to treat high blood pressure, heart disease, heart failure, migraines, palpitations, and other conditions. Beta-blockers are also found in eye drops to treat glaucoma and other eye problems. These eye drops can bring on asthma symptoms, including cough. Aspirin-sensitivity is another cause of coughing with asthma.",
-        {
-            "entities": [
-                [
-                    15,
-                    20,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    440,
-                    448,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Raising Children Network (Australia): Heat rash.",
+        "Signs that you are experiencing difficulty swallowing. These signs may indicate that you have dysphagia, or general problems with the mechanics of swallowing, even if temporary:",
         {
             "entities": [
                 [
                     43,
-                    47,
+                    53,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Cough-variant asthma is a type of asthma in which the main symptom is a dry, non-productive cough. (A non-productive cough does not expel any mucus from the respiratory tract.) People with cough-variant asthma often have no other classic asthma symptoms, such as wheezing or shortness of breath.",
+        "Migraine is often accompanied by nausea and vomiting. Find out how they are related and what could treat both.",
         {
             "entities": [
                 [
-                    92,
-                    97,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Gently petting the dog or softly rubbing their neck to keep them calm and encourage swallowing",
-        {
-            "entities": [
-                [
-                    84,
-                    94,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "[MUSIC PLAYING] - Migraine is quite different from the regular headache or what we call tension type headache. Migraine is more debilitating, more severe. The hallmark of migraine is really that it can last anywhere between 4 and 72 hours, though it could last longer, tends to be throbbing or pounding. And typically, there is what we call the associated symptoms, things like nausea, vomiting at times, light and sound sensitivity. Nausea and vomiting actually tend to be quite a distinctive component of migraines. And even when we ask patients often about the associated symptoms, when they mention nausea or vomiting, that pretty much triggers right away the concern or the suspicion that this is a migraine. Because unlike other headache disorder or simpler headache-- headaches like tension type headache, you typically dont see that patients are sick to their stomach. There are two ways to treat migraines. A, what we call the prevention. And B, what we call the rescue report of therapeutics. The prevention is when patients suffer of what we call chronic migraines as defined as more than 50 headache days and months. They need some sort of a preventive strategy to reduce headache frequency in general. The second aspect is how to abort a migraine. Over the counter painkillers though used, theyre not as effective as some of the other prescribed medication. When it comes to the nausea, when you abort a migraine through any of these medication, the nausea usually will improve as the headache subsides. That being said, it is not uncommon or actually quite unusual that we also prescribe the patient in antiemetic or a nausea medication. And even antiemetics, when they reduce the nausea thats associated with the migraine, that in itself can also reduce the headache that a patient suffers from.",
-        {
-            "entities": [
-                [
-                    386,
-                    394,
+                    44,
+                    52,
                     "ALLERGY_SYMPTOM"
                 ],
-                [
-                    868,
-                    875,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    378,
-                    384,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Time.Common viruses are the most likely causes. Sometimes, the cough can last weeks or months after the virus is gone. Over time your airways will heal and the cough will stop.",
-        {
-            "entities": [
-                [
-                    63,
-                    68,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Cough-variantasthma is one of the most common causes of chronic cough, which is a coughthat lasts longer than 6-8 weeks.The coughing with asthma can occur during the day or at night. If you have nighttime asthma, it can interrupt sleep. People with cough-variant asthma often notice that coughing increases with exercise, called exercise-induced asthma. Coughing may increase when they are exposed to asthma triggers or allergy-causing substances like dust or strong fragrances, or when they are in cold air.",
-        {
-            "entities": [
-                [
-                    64,
-                    69,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    124,
-                    132,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "But not all crying is colic. See a doctor if your baby is crying a lot and doesnt seem to be better or has other symptoms such as diarrhea, fever, or not eating well.",
-        {
-            "entities": [
-                [
-                    130,
-                    138,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Pain confined to one part of the abdomen",
-        {
-            "entities": [
                 [
                     33,
-                    40,
+                    39,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Non-productive cough. This is a dry cough that doesnt bring up mucus or phlegm.",
+        "Treatment depends on the type of dysphagia you have. Sometimes, a swallowing problem will resolve itself without treatment. Other times, swallowing problems can be managed easily. Complex swallowing problems may require treatment by a specialist or several specialists.",
         {
             "entities": [
                 [
-                    15,
-                    20,
+                    66,
+                    76,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Migraines are the kind of headaches that are most likely to make you nauseated. Of people who have migraines, 8 out of 10 have nausea with them too.",
+        "Does your dog have trouble breathing between coughing fits?",
         {
             "entities": [
                 [
-                    127,
-                    133,
+                    45,
+                    53,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Some common causes for headache and nausea are:",
+        "Disordered eating and drinking. Emetophobia may cause you to avoid trying new foods or restaurants due to fear of throwing up. You may also avoid eating or drinking things that youve linked with vomiting in the past, like alcohol.",
         {
             "entities": [
                 [
-                    36,
-                    42,
+                    195,
+                    203,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Cough-variant asthma is somewhat difficult to diagnose because the cough may be the only symptom, and cough itself may appear to be bronchitis or cough associated with postnasal drip.",
+        "Is the cough dry or moist?",
         {
             "entities": [
                 [
-                    67,
-                    72,
+                    7,
+                    12,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Strained muscles. Most women gain anywhere from 25 to 35 pounds during their pregnancy to support their baby. This weight, combined with the effects of your hormones on your muscles and ligaments, can easily lead to strained muscles in your back, sides, and abdomen. Muscle strain pain generally feels tender and sore and stays in the area of the pulled muscle.",
+        "In rare cases, people with stomach flu need to be hospitalized, usually because of dehydration. In adults, dehydration can cause extreme thirst, decreased urination, dark urine, dry skin, fatigue, and dizziness. In babies and young children, dehydration can cause:",
         {
             "entities": [
                 [
-                    258,
-                    265,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "The lean-forward method. This is for swallowing capsules. Here you place a capsule on your tongue and take a sip of water but dont swallow. Lean forward toward your chest and swallow the water and capsule with your head in the bent position.",
-        {
-            "entities": [
-                [
-                    131,
-                    138,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    37,
-                    47,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Some dog experts believe that dogs reverse sneeze as a way to clear irritants from the back of their throat or sinuses. Common particles in the air such as dust, pollen, or even smoke can get into the sensitive tissue in a dogs mouth and nose. That may trigger spasms of reverse sneezing as a way to clear out the irritating material. Its not usually serious and it isnt contagious, so your other pets wont be affected.",
-        {
-            "entities": [
-                [
-                    43,
-                    49,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    279,
-                    287,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Headache and sore throat along with stomach pain",
-        {
-            "entities": [
-                [
-                    36,
-                    43,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Barking cough",
-        {
-            "entities": [
-                [
-                    8,
-                    13,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Nausea is not an illness but a common symptom of many conditions, ranging from bacterial or viral infections to problems with internal organs. Its also a common side effect of certain treatments and medications. If you feel nauseous, you can have an unpleasant, uneasy, or weak feeling in your stomach. You may also feel lightheaded and it may be hard to swallow. You feel like you have to vomit, but that wont always happen.",
-        {
-            "entities": [
-                [
-                    390,
-                    395,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    294,
-                    301,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    355,
-                    362,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "If you think you have a swallowing problem, talk to your doctor. You may get tests such as:",
-        {
-            "entities": [
-                [
-                    24,
+                    27,
                     34,
                     "ALLERGY_SYMPTOM"
                 ]
@@ -333,255 +113,48 @@
         }
     ],
     [
-        "A reason to think thatnausea and vomiting is due to food poisoning",
+        "Blood in the stool or vomit",
         {
             "entities": [
                 [
-                    33,
-                    41,
+                    22,
+                    27,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Choking or coughing while swallowing",
+        "Patient Preference Adherence: A spoonful of sugar helps the medicine go down? A review of strategies for making pills easier to swallow.",
         {
             "entities": [
                 [
-                    11,
-                    19,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    26,
-                    36,
+                    128,
+                    135,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "The pop-bottle method. This method is designed for swallowing tablets. It suggests that you fill a soda bottle with water. Place the tablet on your tongue and bring the bottle opening to your lips. Close your lips tightly around the opening of the bottle and take a drink.",
+        "The best way to manage the itching is to avoid eczema triggers and follow your treatment plan, but flare-ups are sometimes unavoidable and leave you with persistent itching. There are ways to manage the itch, however, without scratching.",
         {
             "entities": [
                 [
-                    51,
-                    61,
+                    203,
+                    207,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "High blood pressure. A severe headache, nausea, and vomiting are among the symptoms of very high blood pressure. You might hear this called a hypertensive crisis or malignant hypertension.",
+        "You should call 911 or your primary doctor right away or go to the nearest urgent care facility or emergency room if you have nausea along with any of the following warning signs:",
         {
             "entities": [
                 [
-                    52,
-                    60,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    40,
-                    46,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "However, dont rush to try these pill-swallowing methods at home without having a thorough swallowing assessment done first. Research does not show how your perception of swallowing pills may change, nor has it established what happens to you psychologically.",
-        {
-            "entities": [
-                [
-                    37,
-                    47,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Wet a clean towel in cool water and wring out until its damp. Apply it to the itchy area. When you remove it, apply moisturizer.",
-        {
-            "entities": [
-                [
-                    78,
-                    83,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Eat and drink right. Alcohol can make stress and anxiety worse. Overeating can pile guilt and nausea onto an already overwrought situation.",
-        {
-            "entities": [
-                [
-                    94,
-                    100,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Many people with contact dermatitis have skin rashes as a reaction to an irritant. The rest may have allergic contact dermatitis, or skin that breaks out in a rash as an allergic reaction.",
-        {
-            "entities": [
-                [
-                    159,
-                    163,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Another way health care providers diagnose cough-variant asthma is by treating the cough with asthma medications. If the cough improves with treatment, you will be diagnosed with cough-variant asthma.",
-        {
-            "entities": [
-                [
-                    43,
-                    48,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "The Cochrane Library: Hand washing for preventing diarrhea.",
-        {
-            "entities": [
-                [
-                    50,
-                    58,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "There is no cure for the stomach flu. Antibiotics dont help, because its caused by viruses, not bacteria. For the most part, you just have to wait it out. In the meantime, there are some things you can do to make yourself more comfortable and prevent complications.",
-        {
-            "entities": [
-                [
-                    25,
-                    32,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "The intranasal and oral kennel cough vaccinations are typically given to dogs once a year, but sometimes are recommended every 6 months for dogs at high risk for kennel cough. These forms of the vaccine tend to provide dogs protection against kennel cough sooner than the injected product.",
-        {
-            "entities": [
-                [
-                    31,
-                    36,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Use applesauce or pudding. You can trick your brain into swallowing pills by burying them whole in a spoonful of some food you like. For example, try putting the pill on the tip of a teaspoon and covering it with applesauce or pudding of your choice. However, take note that not all medications should be taken with food as they can lose their effectiveness.",
-        {
-            "entities": [
-                [
-                    57,
-                    67,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Medication withdrawal. Headache and nausea can happen when you stop taking some meds, especially common antidepressants like Lexapro, Prozac, and Zoloft.",
-        {
-            "entities": [
-                [
-                    36,
-                    42,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "If you are on chemotherapy and your nausea becomes very strong or you are vomiting frequently, talk to your doctor about what helps with nausea.",
-        {
-            "entities": [
-                [
-                    74,
-                    82,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    36,
-                    42,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "It may. One study found that putting an ice pack on the back of peoples necks after surgery helped relieve nausea. So, a cool cloth on the forehead or back of your neck may relieve your symptoms.",
-        {
-            "entities": [
-                [
-                    107,
-                    113,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Heat rash usually lasts about 2 to 3 days. Call your doctor if it doesnt go away after 3 or 4 days or if it seems to be getting worse.",
-        {
-            "entities": [
-                [
-                    5,
-                    9,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Future Science: Discussion of prevalence and management of discomfort when swallowing pills: orodispersible tablets expand treatment options in patients with depression.",
-        {
-            "entities": [
-                [
-                    75,
-                    85,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Chronic cough. This is a cough that lasts 8 weeks or longer and may require medical attention.",
-        {
-            "entities": [
-                [
-                    8,
-                    13,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "National Digestive Diseases Information Clearinghouse: Cyclic vomiting syndrome.",
-        {
-            "entities": [
-                [
-                    62,
-                    70,
+                    126,
+                    132,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
@@ -610,55 +183,19 @@
         }
     ],
     [
-        "JAMA Pediatrics: Placebo effect in the treatment of acute cough in infants and toddlers: a randomized clinical trial.",
+        "The best creams for heat rash are calamine lotion and corticosteroid cream. One common type of corticosteroid cream is 1% hydrocortisone cream (this is different from hydrocortisone ointment, which can clog sweat glands). Talk to a doctor before using hydrocortisone cream for children under 10 or if you are pregnant.",
         {
             "entities": [
                 [
-                    58,
-                    63,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Yes, its possible for a heat rash to spread to other parts of your body. That happens due to clogged sweat pathways.",
-        {
-            "entities": [
-                [
+                    25,
                     29,
-                    33,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "While it may seem odd, placebos have been shown to be more effective than not giving any treatment for cough.",
-        {
-            "entities": [
-                [
-                    103,
-                    108,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Some blood in your vomit",
-        {
-            "entities": [
-                [
-                    19,
-                    24,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "The rash starts after you have been taking an antibiotic or new medication",
+        "The rash is bright red or has streaks",
         {
             "entities": [
                 [
@@ -670,164 +207,12 @@
         }
     ],
     [
-        "The classic symptom of kennel cough is a persistent, forceful cough. It often sounds like a goose honk. This is distinct from a cough-like sound made by some dogs, especially little ones, which is called a reverse sneeze. Reverse sneezes can be normal in certain dogs and breeds, and usually only indicates the presence of post-nasal drip or a slight irritation of the throat.",
+        "Doctors usually dont recommend over-the-counter diarrhea medicines for children. But your doc might prescribe an antibiotic for a bacterial infection or an anti-parasitic drug for a parasite infection.",
         {
             "entities": [
                 [
-                    214,
-                    220,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    30,
-                    35,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Occasionally, green, mucus-like poop can be caused by a virus commonly seen in babies. If your child has green poop and symptoms of diarrhea, fever, or irritability, call your pediatrician.",
-        {
-            "entities": [
-                [
-                    132,
-                    140,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "The heat rash is still visible after 3 or 4 days",
-        {
-            "entities": [
-                [
-                    9,
-                    13,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "In most cases, dogs dont need treatment for reverse sneezing. The episodes are short, and dogs dont have any ill effects after they stop experiencing the rapid gasps of reverse sneezes. There arent any known long-term effects of reverse sneezing.",
-        {
-            "entities": [
-                [
-                    52,
-                    60,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Preeclampsia. This condition is marked by high blood pressure during your pregnancy. You may not notice any symptoms. Or you could have severe headaches, vision changes, belly pain, nausea, or vomiting. You might pee less than usual. HELLP syndrome, a rarer condition linked to preeclampsia, can also cause you to have headache and nausea.",
-        {
-            "entities": [
-                [
-                    193,
-                    201,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    182,
-                    188,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Experts dont know why they seem to be more likely in some people. But they do know things like dehydration, migraine, or other conditions can cause you to have headache and nausea together.",
-        {
-            "entities": [
-                [
-                    173,
-                    179,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Try complementary treatments. Some evidence shows thatbiofeedback andacupuncture may help ease migraines and other kinds of headaches and related symptoms, such as nausea.",
-        {
-            "entities": [
-                [
-                    164,
-                    170,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Headache and nausea are common, and they can happen to you at the same time.",
-        {
-            "entities": [
-                [
-                    13,
-                    19,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Sometimes you need a little more assistance to manage the stomachache, nausea, or other physical symptoms of stress, anxiety, and excitement. Heres a few expert tips that may help.",
-        {
-            "entities": [
-                [
-                    58,
-                    69,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    71,
-                    77,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Most heat rashes will get better on their own without any complications. Sometimes, heat rashes can get infected. Look for signs like fever, swelling, or pus leaking from the rash. If this happens, your doctor may prescribe antibiotics. If you have darker skin, you might notice lighter or darker spots that last a few weeks to months.",
-        {
-            "entities": [
-                [
-                    175,
-                    179,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Is over 3 months old and has been vomiting for more than 12 hours or the diarrhea hasnt gotten better after two days",
-        {
-            "entities": [
-                [
-                    34,
-                    42,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    73,
-                    81,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Itching can mean something serious if it comes on suddenly with no obvious cause, if it affects your whole body, or if you have other symptoms you cant explain, like weight loss, fever, or night sweats. You should also see your doctor if your itch isnt getting better with treatment, or if its keeping you from sleeping.",
-        {
-            "entities": [
-                [
-                    243,
-                    247,
+                    48,
+                    56,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
@@ -846,292 +231,89 @@
         }
     ],
     [
-        "One of the most difficult parts of living with eczema is dealing with the itch. One way that eczema affects your skin is by releasing chemical messengers that stimulate your nerves and make you itch. Eczema also causes changes to your nerve fibers, causing an increase in sensory fibers. This change causes itching even with the lightest touch, called neurogenic itching.",
+        "Non-productive cough. This is a dry cough that doesnt bring up mucus or phlegm.",
         {
             "entities": [
                 [
-                    74,
-                    78,
+                    15,
+                    20,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Dermatologic Therapy: Neuropathic and psychogenic itch.",
+        "If youre having headaches and nausea, see your doctor and tell them about your symptoms and what seems to trigger them. Theyll help you figure out whats going on and help you choose the right treatment.",
         {
             "entities": [
                 [
-                    50,
-                    54,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Get the right nutrients. Look for foods with potassium (such as potatoes, bananas, and fruit juices), salt (such as pretzels and soup), and yogurt with active bacterial cultures. Even a little fat could help, because it slows down digestion and may reduce diarrhea. If you feel up to it, add a pat of butter or some lean meat to your next meal.",
-        {
-            "entities": [
-                [
-                    256,
-                    264,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Dysphagia is when you cant swallow correctly, leading to problems eating and drinking. Many things can cause swallowing problems, most having to do with the esophagus. If you regularly choke during meals, talk to a doctor.",
-        {
-            "entities": [
-                [
-                    27,
-                    34,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    109,
-                    119,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "A therapist can help you to identify thoughts that arent helpful when it comes to being afraid of vomit. They can help you to release these thoughts and help you manage your anxiety around vomiting.",
-        {
-            "entities": [
-                [
-                    98,
-                    103,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    189,
-                    197,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "You can even develop both atopic dermatitis and contact dermatitis together. Both skin conditions can flare up because your immune system reacts in a rash as a response to a trigger. Atopic dermatitis makes your skin very sensitive. Youre more likely to react in a rash if your skin touches something like hand soap or scratchy wool.",
-        {
-            "entities": [
-                [
-                    150,
-                    154,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Eat carbs such as crackers and toast, which reduce nausea and increase blood sugar.",
-        {
-            "entities": [
-                [
-                    51,
-                    57,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "If you have Parkinsons disease, and its hard for you to swallow, you have a higher chance of aspiration (inhaling fluid or stomach contents into the lungs) and pneumonia. For some, special swallowing techniques are enough to ease these problems. Others need to change their diet.",
-        {
-            "entities": [
-                [
-                    123,
-                    130,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    56,
-                    63,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    189,
-                    199,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "This ring is called the lower esophageal sphincter (LES) and normally aids the digestive system by allowing food to pass from your esophagus to your stomach. Someone with GERD has a weak LES, so food can end up being pushed back up the esophagus, leading to the following symptoms:",
-        {
-            "entities": [
-                [
-                    149,
-                    156,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Neuropathic itch",
-        {
-            "entities": [
-                [
-                    12,
-                    16,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Get lots of sleep because being tired can increase nausea.",
-        {
-            "entities": [
-                [
-                    51,
-                    57,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Visualize yourself successfully swallowing the pillbefore you swallow it. If you still gag or are unable to swallow for any reason, remove the tablet and dry it with a clean paper towel to prevent it from dissolving. Try again in a few minutes.",
-        {
-            "entities": [
-                [
-                    62,
-                    69,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    32,
-                    42,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Medication. Some may make your skin itch, even with no signs of a rash or irritation. Check with your doctor if the itch becomes too uncomfortable. These drugs are known to make you start scratching:",
-        {
-            "entities": [
-                [
-                    36,
-                    40,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    66,
-                    70,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Acute cough. It comes on suddenly and lasts for 2-3 weeks.",
-        {
-            "entities": [
-                [
-                    6,
-                    11,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Take your meds. Your doctor might prescribe drugs to help prevent your headaches, especially if youre diagnosed with migraines. Meds may also help stop your headache after it starts, or ease your symptoms. You can also take anti-nausea medications during your headaches. They come in different forms, like pills,nasal sprays, suppositories, syrups, and shots. They have a number of side effects, so work with your doctor to find the best one for you.",
-        {
-            "entities": [
-                [
-                    229,
-                    235,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "However, if your cats sneezing wont go away, or if other symptoms have cropped up along with sneezing, you may need to check with your veterinarian to see if treatment is needed.",
-        {
-            "entities": [
-                [
-                    22,
                     30,
+                    36,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Concerned dog owners often want to know how to stop reverse sneezing in dogs since it looks scary and uncomfortable for their pets. There are a few techniques you can try to relieve the symptoms, including:",
+        "Eczema, or atopic dermatitis. It shows up on your skin as dry, scaly patches or a bumpy rash. It isnt clear what causes it, but its extremely itchy. Kids are more likely to get it if their family has a history of asthma and allergies. Certain food allergies can make it worse. So does scratching. (See a photo of what eczema looks like.)",
         {
             "entities": [
                 [
-                    60,
-                    68,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "There are several possible causes for foamy vomit. Here are some of the most common.",
-        {
-            "entities": [
-                [
-                    44,
-                    49,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "If you have Parkinsons disease and have trouble swallowing, talk with your doctor. They will refer you to a speech pathologist who can take a close look at how you swallow and figure out if aspiration could be a problem.",
-        {
-            "entities": [
-                [
-                    164,
-                    171,
+                    142,
+                    147,
                     "ALLERGY_SYMPTOM"
                 ],
                 [
-                    48,
-                    58,
+                    88,
+                    92,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "A heat rash is a common rash on the skin that can show up when youre hot or you sweat a lot. It can make parts of your skin feel prickly or sting due to overheating. It can itch a lot, but its not dangerous.",
+        "Trouble swallowing",
         {
             "entities": [
                 [
-                    173,
-                    177,
-                    "ALLERGY_SYMPTOM"
-                ],
-                [
-                    7,
-                    11,
+                    8,
+                    18,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Gastroesophageal Reflux Disease, or GERD, is a digestive disorder that makes the ring connecting your esophagus to your stomach weak and unresponsive.",
+        "Treatment depends on the cause of the sneezing. In mild cases, the vet may suggest taking steps to simply help your cat be more comfortable -- like using a humidifier. In other cases, antibiotics, antihistamines, steroids, or fluids may be needed. Rarely, cats that dont respond to medical therapy may require surgery.",
         {
             "entities": [
                 [
-                    120,
-                    127,
+                    38,
+                    46,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Some blood in your vomit",
+        {
+            "entities": [
+                [
+                    19,
+                    24,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "PMSand menstrual cycle. Changes in yourhormone levels can cause nauseating headaches, which usually strike 2 days before, or in the first 3 days of, your period. You might have throbbing pain on one side of your head along with nausea and sensitivity to light.",
+        {
+            "entities": [
+                [
+                    228,
+                    234,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
@@ -1150,12 +332,142 @@
         }
     ],
     [
-        "Itch relief. OTC creams that contain 1% hydrocortisone or antihistamines, or calamine lotion may help relieve itch from contact dermatitis.",
+        "Raising Children Network (Australia): Heat rash.",
         {
             "entities": [
                 [
-                    110,
-                    114,
+                    43,
+                    47,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Some things can make you more likely to get a heat rash. These include:",
+        {
+            "entities": [
+                [
+                    51,
+                    55,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "As your body goes through significant changes, sometimes youll feel uncomfortable. As your baby grows, you carry more weight in your belly, and your other organs are pushed out of the way. This can lead to some common causes of abdominal pain during pregnancy that are easily managed and will likely go away on their own:",
+        {
+            "entities": [
+                [
+                    228,
+                    237,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Avoid strong odors. If your tummy is queasy or you feel like youre going to vomit, steer clear of strong odors like cooking smells, smoke, and perfumes, they can help tip you from almost to definitely.",
+        {
+            "entities": [
+                [
+                    76,
+                    81,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "National Health Service: Heat rash (prickly heat).",
+        {
+            "entities": [
+                [
+                    30,
+                    34,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Certain foods can make you throw up foam, particularly if you eat them on an otherwise empty stomach. These include:",
+        {
+            "entities": [
+                [
+                    93,
+                    100,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Abdominal aortic aneurysm. The aorta is the largest blood vessel in your body. It runs from your heart down the center of your chest and abdomen. An aneurysm is a bulge in the wall of an artery where there is a weak spot. A ruptured abdominal aortic aneurysm can be a life-threatening complication.",
+        {
+            "entities": [
+                [
+                    233,
+                    242,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    137,
+                    144,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Esophageal dysphagia. The third phase starts when food enters the esophagus. The esophagus, which is about 9 inches long, is a muscular tube that produces waves of coordinated contractions (called peristalsis). As the esophagus contracts, a muscular valve at the end of the esophagus opens and food is propelled into the stomach. The third phase of swallowing takes 6 to 8 seconds to complete.",
+        {
+            "entities": [
+                [
+                    321,
+                    328,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    349,
+                    359,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "While it may seem odd, placebos have been shown to be more effective than not giving any treatment for cough.",
+        {
+            "entities": [
+                [
+                    103,
+                    108,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "The technique showed 89% improvement in swallowing capsules over the traditional method of swallowing pills.",
+        {
+            "entities": [
+                [
+                    40,
+                    50,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "The rash oozes pus or swells",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
@@ -1174,24 +486,586 @@
         }
     ],
     [
-        "Patient Preference Adherence: A spoonful of sugar helps the medicine go down? A review of strategies for making pills easier to swallow.",
+        "To stop throwing up foam, try not to over-stimulate your stomach with foods and drinks that cause this type of vomiting, especially if you have any of the medical conditions we discussed above. The following sweet, acidic, and fatty foods and drinks should be avoided:",
         {
             "entities": [
                 [
-                    128,
-                    135,
+                    111,
+                    119,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    57,
+                    64,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Unfortunately, theres no evidence that any medication helps relieve acute cough symptoms in children. Additionally, cough syrups are never to be given to kids under 4 years of age. But in addition to rest and fluids, the following remedies may provide some comfort:",
+        "H2 blockers such as famotidine, which can reduce stomach acid",
+        {
+            "entities": [
+                [
+                    49,
+                    56,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "An itch caused by another condition usually affects your whole body and doesnt cause a rash. You might also start itching after the treatments for some of these illnesses. Kidney dialysis, chemotherapy, and radiation therapy have it as a side effect. (Learn more about chemotherapy side effects.)",
+        {
+            "entities": [
+                [
+                    3,
+                    7,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    87,
+                    91,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat rashes tend to form where skin rubs together, like underneath your breasts. This can lead to a sore rash calledintertrigo.It tends to affect people who have large breasts. To avoid it, try patting the area dry with a clean towel. You can also wear a well-fitting, cotton bra.",
+        {
+            "entities": [
+                [
+                    105,
+                    109,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Miliaria rubra: This type is often referred to as prickly heat, because it can cause an itchy or prickly feeling along with small, inflamed bumps on your skin. If the bumps become filled with pus, your doctor will call it miliaria pustulosa.",
+        {
+            "entities": [
+                [
+                    88,
+                    93,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "The child has a stomachache and any of the following:",
+        {
+            "entities": [
+                [
+                    16,
+                    27,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Heat rash cream",
+        {
+            "entities": [
+                [
+                    5,
+                    9,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Uncontrolled or repeated vomiting",
+        {
+            "entities": [
+                [
+                    25,
+                    33,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "It takes more than a few seconds to swallow",
+        {
+            "entities": [
+                [
+                    36,
+                    43,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Cyclic vomiting syndrome(CVS).This gastrointestinal (GI) disorder is linked tomigraine headaches, but its not a type of migraine. It happens most often in children, though kids usually outgrow them by the time theyre teenagers. Some kids with CVS go on to have migraines as adults.",
+        {
+            "entities": [
+                [
+                    7,
+                    15,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Hiatal hernia happens when the top part of your stomach pushes into your chest through a gap in the diaphragm. Ordinarily, the diaphragm prevents stomach acids from pouring into the esophagus. It acts as a barrier between the abdomen and the chest.",
+        {
+            "entities": [
+                [
+                    48,
+                    55,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    226,
+                    233,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Bugs. When you get bitten by a mosquito or spider, you know it. Bites from bedbugs and mites can be harder to diagnose because they look like rashes. Lice can cause a crawling sensation in your scalp or pubic hair, along with an intense itch. (See a photo of what bedbug bites look like.)",
+        {
+            "entities": [
+                [
+                    237,
+                    241,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Cineradiography: This is an imaging test in which a camera is used to film internal body structures. Youll swallow something that includes barium (a liquid or other form that lights up under X-ray). Your doctor will use an X-ray machine to watch it pass through your esophagus. This is often done under the guidance of a speech pathologist, an expert in swallowing as well as speech.",
+        {
+            "entities": [
+                [
+                    107,
+                    114,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    354,
+                    364,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "You can even develop both atopic dermatitis and contact dermatitis together. Both skin conditions can flare up because your immune system reacts in a rash as a response to a trigger. Atopic dermatitis makes your skin very sensitive. Youre more likely to react in a rash if your skin touches something like hand soap or scratchy wool.",
+        {
+            "entities": [
+                [
+                    150,
+                    154,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Medications: Some help. Others dont. Many over-the-counter medications can help you deal with vomiting or one or more of the side effects of a nervous stomach, like nausea, diarrhea, or acidity, including Alka-Seltzer, Emetrol, Mylanta, Pepto-Bismal, Similac, or Tums. To know which medication is most appropriate for your symptom, talk to your doctor. If youre trying to mellow a stomachache by popping medicines with ibuprofen (Advil, Motrin), dont. Ibuprofen generally wont help, and can sometimes make a stomachache worse.",
+        {
+            "entities": [
+                [
+                    94,
+                    102,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    381,
+                    392,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    151,
+                    158,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    165,
+                    171,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    173,
+                    181,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Avoid alcoholic beverages, dairy products, smoothies, and vegetable juice. You may also want to skip that morning cup of coffee, which can upset your stomach and dehydrate you. If the carbonation in soda bothers you, wait until its flat (the fizz is gone). You may also find it easier to drink beverages at room temperature instead of very hot. Drink enough fluids to keep your urine a pale straw color. If youre not able to keep liquids down and begin to vomit, start with sipping water or sucking on ice chips.",
+        {
+            "entities": [
+                [
+                    456,
+                    461,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    150,
+                    157,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "As children develop, its not uncommon for them to experience illnesses or conditions with coughs particularly if in a daycare setting and during the winter months. A cough in young children can have many causes. The vast majority are caused by viral upper respiratory infections or common colds. If your child has a cold, their cough can linger for up to a month after the other symptoms have gone away.",
+        {
+            "entities": [
+                [
+                    166,
+                    171,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Vomit fear can affect you mentally and physically as it is repetitive When you first experience the anticipation of vomiting, you look out for things that might cause it and avoid anything you think might provoke it. This can trigger more anxiety about getting sick. Worrying about getting sick doesnt prevent it, but it does cause you to miss out on things you might enjoy.",
+        {
+            "entities": [
+                [
+                    116,
+                    124,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "You cant always prevent heat rash, but there are things you can do to significantly lower your risk:",
+        {
+            "entities": [
+                [
+                    29,
+                    33,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Stay hydrated. If stress or over-excitement has caused you or the kids to vomit, its important to stay hydrated, but do wait 30 to 60 minutes after vomiting before putting anything in your stomach, says Scott Cohen, MD, FAAP, an attending physician at Cedars Sinai Medical Center and a pediatrician. Then take it very slowly, sipping one teaspoon of fluids at a time. Steer clear of solid foods until its been six hours since the last time you vomited.",
         {
             "entities": [
                 [
                     74,
                     79,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    148,
+                    156,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    189,
+                    196,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Cancers. Different types of cancers can cause an abdominal mass, such as:",
+        {
+            "entities": [
+                [
+                    49,
+                    58,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Keep contact between the bottle and your lips by using a sucking motion. This will make you swallow the water and the pill without letting air into the bottle.",
+        {
+            "entities": [
+                [
+                    92,
+                    99,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try an over-the-counter anti-itch cream, or one that has a cooling or numbing effect.",
+        {
+            "entities": [
+                [
+                    29,
+                    33,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Call your doctor about a heat rash if:",
+        {
+            "entities": [
+                [
+                    30,
+                    34,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Choking on your vomit",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Acute cough. It comes on suddenly and lasts for 2-3 weeks.",
+        {
+            "entities": [
+                [
+                    6,
+                    11,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Anyone can get cough-variant asthma at any time, but it is common in young kids with childhood asthma. Cough-variant asthma may lead to the development of classic asthma, with symptoms that include shortness of breath and wheezing.",
+        {
+            "entities": [
+                [
+                    15,
+                    20,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Like us,dogs cough to get rid of dust, germs, and other stuff they breathe in.",
+        {
+            "entities": [
+                [
+                    13,
+                    18,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Contact dermatitis is another type of red, itchy skin rash. Your skin becomes inflamed when it makes contact with something that causes an allergic reaction.",
+        {
+            "entities": [
+                [
+                    43,
+                    48,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    54,
+                    58,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "A rash that looks like bruises on the legs and buttocks",
+        {
+            "entities": [
+                [
+                    2,
+                    6,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "If thin liquids make you cough, use a liquid thickener (your speech pathologist can recommend one). Substitute thicker liquids for thin ones, such as nectar for juice and cream soup for broth.",
+        {
+            "entities": [
+                [
+                    25,
+                    30,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Your doctor may recommend taking B6 during pregnancy to help with nausea and morning sickness. You can take 10-25 milligrams of vitamin B6 three times a day to reduce nausea. But talk to your doctor before taking any supplements during pregnancy.",
+        {
+            "entities": [
+                [
+                    66,
+                    72,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try an anti-itch cream like calamine lotion",
+        {
+            "entities": [
+                [
+                    12,
+                    16,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Research shows women and anyone prone to motion sickness are more apt to have nausea with migraines. Its not clear why women are more affected than men, but some experts think its linked to changes in hormones.",
+        {
+            "entities": [
+                [
+                    78,
+                    84,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Stomach flu can develop at any time of the year, but its most common in the fall and winter in the U.S. Although unpleasant, stomach flu is rarely serious. Symptoms usually last for 1 to 3 days and sometimes longer. The greatest risk -- especially in babies and older people -- comes from dehydration. Untreated, dehydration can be dangerous.",
+        {
+            "entities": [
+                [
+                    125,
+                    132,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Time.Common viruses are the most likely causes. Sometimes, the cough can last weeks or months after the virus is gone. Over time your airways will heal and the cough will stop.",
+        {
+            "entities": [
+                [
+                    63,
+                    68,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "One study of people who have trouble swallowing medication shows two ways to make the process easier:",
+        {
+            "entities": [
+                [
+                    37,
+                    47,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Current Psychiatry: Problematic pruritus: Seeking a cure for psychogenic itch.",
+        {
+            "entities": [
+                [
+                    73,
+                    77,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "The lean-forward method. This is for swallowing capsules. Here you place a capsule on your tongue and take a sip of water but dont swallow. Lean forward toward your chest and swallow the water and capsule with your head in the bent position.",
+        {
+            "entities": [
+                [
+                    131,
+                    138,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    37,
+                    47,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Wheezing with a cough",
+        {
+            "entities": [
+                [
+                    16,
+                    21,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Try complementary treatments. Some evidence shows thatbiofeedback andacupuncture may help ease migraines and other kinds of headaches and related symptoms, such as nausea.",
+        {
+            "entities": [
+                [
+                    164,
+                    170,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Reflux. Babies with reflux (heartburn) have a burning sensation from stomach acid coming back up their esophagus. Sometimes, infants with reflux have a digestive disorder called GERD (gastroesophageal reflux disease). Signs include:",
+        {
+            "entities": [
+                [
+                    69,
+                    76,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Emetophobia is the fear of vomit. This can be the fear of you vomiting or of watching other people be sick. This phobia can have an effect on both your mental and physical health.",
+        {
+            "entities": [
+                [
+                    27,
+                    32,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    62,
+                    70,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
@@ -1210,53 +1084,159 @@
         }
     ],
     [
-        "Eat small meals. If you are only nauseous on an empty stomach, eat small meals and frequent snacks throughout the day.",
+        "Unfortunately, theres no evidence that any medication helps relieve acute cough symptoms in children. Additionally, cough syrups are never to be given to kids under 4 years of age. But in addition to rest and fluids, the following remedies may provide some comfort:",
         {
             "entities": [
                 [
-                    54,
-                    61,
+                    74,
+                    79,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
         }
     ],
     [
-        "Symptoms that may accompany sneezing in cats may be the result of a wide range of infections and other problems. These symptoms may include:",
+        "In cats, allergies are a less common cause of sneezing than in humans. If sneezing is related to allergies, sometimes itchy skin is also present.",
         {
             "entities": [
                 [
-                    28,
-                    36,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Sour foods and drinks such as lemonade, lemon candy, or pickles may help reduce nausea. You can also rinse your mouth with water and lemon juice.",
-        {
-            "entities": [
-                [
-                    80,
-                    86,
-                    "ALLERGY_SYMPTOM"
-                ]
-            ]
-        }
-    ],
-    [
-        "Wash your hands. According to experts, this is still the best way to stop a stomach virus. One review of studies found that good hand-washing techniques cut the rate of diarrhea by 40%. Make sure to use soap and water and do it thoroughly -- wash your hands for as long as it takes to recite the alphabet. Always wash your hands after using the bathroom, before eating, and after changing a diaper.",
-        {
-            "entities": [
-                [
-                    76,
-                    83,
+                    118,
+                    123,
                     "ALLERGY_SYMPTOM"
                 ],
                 [
-                    169,
-                    177,
+                    46,
+                    54,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "It may. One study found that putting an ice pack on the back of peoples necks after surgery helped relieve nausea. So, a cool cloth on the forehead or back of your neck may relieve your symptoms.",
+        {
+            "entities": [
+                [
+                    107,
+                    113,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Most causes of abdominal pain during pregnancy are nothing to worry about, but some causes of abdominal pain need medical care right away. If you suspect you may be facing one of the following problems, get medical assistance immediately.",
+        {
+            "entities": [
+                [
+                    15,
+                    24,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "In addition, a cough that begins after a person has begun taking beta-blockers is likely to be cough-variant asthma. Beta-blockers are drugs used to treat high blood pressure, heart disease, heart failure, migraines, palpitations, and other conditions. Beta-blockers are also found in eye drops to treat glaucoma and other eye problems. These eye drops can bring on asthma symptoms, including cough. Aspirin-sensitivity is another cause of coughing with asthma.",
+        {
+            "entities": [
+                [
+                    15,
+                    20,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    440,
+                    448,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Most people dont need to see the doctor when they have the stomach flu. But its a good idea to get medical attention if you or your child has stomach flu and:",
+        {
+            "entities": [
+                [
+                    59,
+                    66,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Psoriasis. It makes your body overproduce skin cells, which pile up in itchy, inflamed patches on the skins surface. This is a result of an overactive immune system. (See a photo of what psoriasis looks like.)",
+        {
+            "entities": [
+                [
+                    71,
+                    76,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Collapse of the trachea. If the rings of cartilage on the dogs trachea, or windpipe, weaken, it can lead to tracheal collapse. It is a progressive condition that causes a harsh, dry cough, vomiting, and difficulty breathing. It is more common in small dogs like Pomeranians, Yorkshire terriers, and chihuahuas.",
+        {
+            "entities": [
+                [
+                    189,
+                    197,
+                    "ALLERGY_SYMPTOM"
+                ],
+                [
+                    182,
+                    187,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "If you have a medical condition, getting treatment for that may end the itch.",
+        {
+            "entities": [
+                [
+                    72,
+                    76,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Dont eat only bland foods. The old advice was to stick with a liquid diet for a few days and then to add in bland foods, such as the BRAT diet of bananas, rice, applesauce, and toast. Thats fine for the first day or so of stomach flu. However, doctors say that you should return to your normal diet as soon as you feel up to it. BRAT foods arent bad. They just dont provide the fat and protein that you need. Sticking with them too long could actually slow your recovery.",
+        {
+            "entities": [
+                [
+                    222,
+                    229,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Red rash on the area of skin that makes contact with something that causes a reaction",
+        {
+            "entities": [
+                [
+                    4,
+                    8,
+                    "ALLERGY_SYMPTOM"
+                ]
+            ]
+        }
+    ],
+    [
+        "Every once in a while, suck on ice pops, ice chips, lemon ice, or lemon-flavored water to add to your saliva. Thatll help you swallow more often.",
+        {
+            "entities": [
+                [
+                    126,
+                    133,
                     "ALLERGY_SYMPTOM"
                 ]
             ]
